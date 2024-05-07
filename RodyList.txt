@@ -18,25 +18,25 @@ hdtoday.tv##.text-center.server-notice
 hdtoday.tv##.watching_player-control
 hdtoday.tv###film_comments
 
-! faselhd.link
-www.faselhdwatch.top##.breakNews
-www.faselhdwatch.top##.accBtn
-www.faselhdwatch.top##.ml-auto.promoLink
-www.faselhdwatch.top##.dwnApp
-www.faselhdwatch.top###scroll-to-top
-www.faselhdwatch.top##.promoTab
-www.faselhdwatch.top##.blockMovieMeta
-www.faselhdwatch.top###pr
-www.faselhdwatch.top###footer
-www.faselhdwatch.top##.singleBtns
-www.faselhdwatch.top##.serDetails
-www.faselhdwatch.top##.social-block
-www.faselhdwatch.top##.singleStar
-www.faselhdwatch.top##.downloadLinks
-www.faselhdwatch.top##.Teamwork.AsideContext
-www.faselhdwatch.top##div.ralatedMovies
-www.faselhdwatch.top##.postElse
-www.faselhdwatch.top##.alert-danger.alert
+! faselhds.world
+faselhds.world##.breakNews
+faselhds.world##.accBtn
+faselhds.world##.ml-auto.promoLink
+faselhds.world##.dwnApp
+faselhds.world###scroll-to-top
+faselhds.world##.promoTab
+faselhds.world##.blockMovieMeta
+faselhds.world###pr
+faselhds.world###footer
+faselhds.world##.singleBtns
+faselhds.world##.serDetails
+faselhds.world##.social-block
+faselhds.world##.singleStar
+faselhds.world##.downloadLinks
+faselhds.world##.Teamwork.AsideContext
+faselhds.world##div.ralatedMovies
+faselhds.world##.postElse
+faselhds.world##.alert-danger.alert
 
 ! 5ivttv.vip
 asia.5ivttv.vip##.blk.aa-mdl.fa-user.lnk.btn-login.btn
