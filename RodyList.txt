@@ -1,8 +1,8 @@
-! Title: RodyClean Filter
+! Title: Rody Annoyances List
 ! Description: Filters for clean many websites.
 ! Author: Murtaza Salih
 ! Expires: 3 days
-! Homepage: https://github.com/itsrody/rodyblocklist
+! Homepage: https://github.com/itsrody/RodyAnnoyancesList
 
 ! hdtoday.tv
 hdtoday.tv###user-slot
@@ -59,7 +59,7 @@ ww1.asia2tv.pw##footer
 ww1.asia2tv.pw##.comments-area
 ww1.asia2tv.pw##.col-md-7
 
-! lodynet.cfd
+! llodynet.site
 lodynet.cfd##.MainMenu
 lodynet.cfd##.RightHeader
 lodynet.cfd##.SocialArea
