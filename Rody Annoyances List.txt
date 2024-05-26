@@ -1,0 +1,310 @@
+! Title: Rody Annoyances List
+! Description: Filters for clean many websites.
+! Author: Murtaza Salih
+! Expires: 3 days
+! Homepage: https://github.com/itsrody/RodyAnnoyancesList
+
+! hdtoday.tv
+hdtoday.tv###user-slot
+hdtoday.tv##.btn-favorite.btn-light.btn-radius.btn
+hdtoday.tv##.dp-i-stats
+hdtoday.tv##.description
+hdtoday.tv##.block-rating
+hdtoday.tv##.mb-3.detail-tags
+hdtoday.tv###footer
+hdtoday.tv##li.nav-item:nth-of-type(7)
+hdtoday.tv##.mb-3.alert
+hdtoday.tv##.text-center.server-notice
+hdtoday.tv##.watching_player-control
+hdtoday.tv###film_comments
+hdtoday.tv###hgiks-top
+
+! faselhds.world
+faselhds.world##.breakNews
+faselhds.world##.accBtn
+faselhds.world##.ml-auto.promoLink
+faselhds.world##.dwnApp
+faselhds.world###scroll-to-top
+faselhds.world##.promoTab
+faselhds.world##.blockMovieMeta
+faselhds.world###pr
+faselhds.world###footer
+faselhds.world##.singleBtns
+faselhds.world##.serDetails
+faselhds.world##.social-block
+faselhds.world##.singleStar
+faselhds.world##.downloadLinks
+faselhds.world##.Teamwork.AsideContext
+faselhds.world##div.ralatedMovies
+faselhds.world##.postElse
+faselhds.world##.alert-danger.alert
+
+! 5ivttv.vip
+asia.5ivttv.vip##.blk.aa-mdl.fa-user.lnk.btn-login.btn
+asia.5ivttv.vip###trp-floater-ls
+asia.5ivttv.vip##.tac.ft
+asia.5ivttv.vip##.alg-cr.jst-sb.dfxa
+asia.5ivttv.vip##.widget.comments-area
+asia.5ivttv.vip##section.episodes.section:nth-of-type(2)
+asia.5ivttv.vip###fav-tv
+asia.5ivttv.vip##.menu-item-106263.menu-item-object-page.menu-item-type-post_type.menu-item
+
+asia2tv.pw
+ww1.asia2tv.pw##div.row:nth-of-type(10) > .col-md-7
+ww1.asia2tv.pw###footer-top > .container > .row
+ww1.asia2tv.pw##footer
+ww1.asia2tv.pw##.comments-area
+ww1.asia2tv.pw##.col-md-7
+
+! llodynet.site
+llodynet.site##.MainMenu
+llodynet.site##.RightHeader
+llodynet.site##.SocialArea
+llodynet.site##.SiteSlider
+llodynet.site##.FeaturedActors
+llodynet.site##div.Section:nth-of-type(1)
+llodynet.site##div.Section:nth-of-type(2)
+llodynet.site##div.Section:nth-of-type(3)
+llodynet.site##footer
+llodynet.site##.Title
+llodynet.site##.Left.Ad160 > aside
+llodynet.site##.AdditionalButtons > ul
+llodynet.site##.PostTags
+llodynet.site##.ReactArea > ul
+llodynet.site##.SingleAboveWatch
+llodynet.site##.WatchTitle
+llodynet.site##aside
+llodynet.site##div.RelatedSection.RecentPosts:nth-of-type(6)
+llodynet.site##.BlocksGrid
+llodynet.site##div.RelatedSection.RecentPosts:nth-of-type(7)
+llodynet.site##.Breadcrumbs
+llodynet.site##li.category:nth-of-type(2)
+llodynet.site##.DetailsBoxContentInner > h2
+
+! tuktokcinema.com
+www.tuktukcima.com###popup
+www.tuktukcima.com##.News--Bar
+www.tuktukcima.com##.Header--Social
+www.tuktukcima.com##.Channels--Tv
+www.tuktukcima.com##.Footer--Filter
+www.tuktukcima.com##footer
+||www.tuktukcima.com/wp-content/themes/HayaH20/tuk.png$image
+www.tuktukcima.com##.breadcrumbs
+www.tuktukcima.com##.WatcHTrailer.trl
+www.tuktukcima.com##.HomeSlider
+www.tuktukcima.com##.mobile--bars
+
+! topcinema.cam
+web3.topcinema.cam##.News--Bar
+web3.topcinema.cam##.Header--Social
+||web3.topcinema.cam/wp-content/themes/movies2023/top.png$image
+web3.topcinema.cam##footer
+web3.topcinema.cam##.breadcrumbs
+web3.topcinema.cam##.UnderPoster
+web3.topcinema.cam##.shortlink
+web3.topcinema.cam##.tabs .seriesList
+
+! aflamlab.com
+aflamlab.com##.Footer
+aflamlab.com##.widget_tag_cloud.widget_block.Wdgt
+aflamlab.com###disqus_thread
+aflamlab.com##.ListPOpt
+aflamlab.com##.Info
+aflamlab.com##.ClFx
+aflamlab.com##.widget_series.Wdgt
+aflamlab.com##aside
+aflamlab.com##section:nth-of-type(4)
+
+! shoffree.net
+shoffree.net##.bottomDropUpAds-wrapper
+shoffree.net##a.naked:nth-of-type(5)
+shoffree.net##.t-rtl-pull-to-trailing.d-inline-block.p-0.m-0 > .default-fill.t-blackout-stroke-alternative-highlight
+shoffree.net##div.d-flex > .naked
+shoffree.net##.rounded-md.t-blackout-text-alternative-highlight.listOfTournaments-state-ended.d-inline-block.px-2.ml-1.py-1
+shoffree.net##.col-lg-7.col-md-9.py-2.p-0.m-0 > .col.align-self-center.px-3.p-2 > .py-2.w-auto.d-flex > .t-blackout-text-alternative-highlight > .t-blackout-text-alternative
+shoffree.net##div.pt-0.px-0:nth-of-type(7)
+shoffree.net##.col-12.pt-1.rtl-pull-to-leading.p-0
+shoffree.net##.col-lg-7.col-md-9.py-2.p-0.m-0 > .col.align-self-center.px-3.p-2 > .row.p-0.m-0 > .row > div.py-2.p-0.m-0.col-6 > b
+shoffree.net##.col-lg-7.col-md-9.py-2.p-0.m-0 > .col.align-self-center.px-3.p-2 > .row.p-0.m-0 > .row > div.py-2.p-0.m-0.col-6 > p
+shoffree.net##.col-lg-7.col-md-9.py-2.p-0.m-0 > .col.align-self-center.px-3.p-2 > .py-2.w-auto.d-flex
+shoffree.net##div.px-1.col-6 > .naked
+shoffree.net##.col-lg-3.col-md-12.py-2.p-0.m-0
+shoffree.net##.col-lg-7.col-md-9.py-2.p-0.m-0 > .col.align-self-center.px-3.p-2 > .align-items-center.d-flex
+shoffree.net##div.w-100:nth-of-type(5)
+shoffree.net##div.playView-tabs-container.w-100 > .row.font-lg.t-blackout-text-alternative-highlight.rtl-primaryFont.pb-4.px-4.w-100.p-0.m-0 > .col-12.font-section-title.rtl-pull-to-leading.p-0
+shoffree.net##div.playView-tabs-container.w-100 > .row.font-lg.t-blackout-text-alternative-highlight.rtl-primaryFont.pb-4.px-4.w-100.p-0.m-0
+shoffree.net##.align-center.pb-3.w-100
+shoffree.net##.col-lg-7.col-md-9.py-2.p-0.m-0
+shoffree.net##.rounded-lg.opacity-hover.pointer.matchmakingOptionalMenu-favGenres-btnBorder.null.p-2
+shoffree.net##.scroller_wrap.rounded-sm.font-sm.rtl-secondaryFont.t-blackout-bg-secondary-highlight.px-1.mb-4.w-100 > a.naked
+
+! ak.sv
+ak.sv##.mb-3.ads
+ak.sv##.btn-recently
+ak.sv##.user-profile-container.col-auto
+ak.sv##.py-5.main-footer
+ak.sv##.rating.label
+ak.sv##.series.label
+ak.sv##.pt-3.mt-auto
+ak.sv##.mt-2.hal-container.text-white.align-items-center.d-sm-flex.d-none.btn-pill.btn-share.btn
+ak.sv##.col-md-10.col-lg-8
+ak.sv##.mb-4.more.widget-style-1.widget.widget-4
+ak.sv##.align-items-center.d-flex.btn-pill.btn-light.btn
+ak.sv##.site-container > nav
+ak.sv##.container > .text-left
+
+! best-drama.com
+best-drama.com##.footer-top
+best-drama.com##.footer
+best-drama.com##.not-logged
+best-drama.com##.model-user-registered.link-like.add_favorite
+best-drama.com##.text-center.mt--10.single-episode-info
+best-drama.com##.text-center.float-none.info-comviewfav
+best-drama.com##.pb-3.pt-5.block-bgcolor-att
+best-drama.com##.mt-0.block-bgcolor-att.padding_50
+best-drama.com##.mb-0.style-2.gtitle
+
+! aradrmtv.com
+aradrmtv.com###footer
+aradrmtv.com###uitabs
+aradrmtv.com##.b_title > h2
+aradrmtv.com##.single_post.tagcloud.mtf
+aradrmtv.com##div.tofs.clearfix.row.wpb_row.vc_row
+aradrmtv.com###disqus_thread
+aradrmtv.com##.grid_12.vc_column_container.wpb_column > .vc_column-inner > .wpb_wrapper > .vc_btn3-inline.vc_btn3-container
+aradrmtv.com##.menu-item-23.menu-item-object-custom.menu-item-type-custom.menu-item
+aradrmtv.com##.previous
+aradrmtv.com##h3:nth-of-type(3)
+aradrmtv.com##p:nth-of-type(3)
+aradrmtv.com##.alpha.grid_3
+aradrmtv.com##.menu-item-126151.menu-item-object-custom.menu-item-type-custom.menu-item
+aradrmtv.com##.introfx.themeform
+
+! movizlands.com
+movizlands.com##.download
+movizlands.com##footer
+movizlands.com##.SingleContent
+movizlands.com##.elshaikh-breadcrumbs
+movizlands.com##.filterTabs
+movizlands.com##.BlocksHolder
+movizlands.com##.leftFooter
+
+! honadrama.top
+honadrama.top##.UserButton
+honadrama.top###newsNine
+honadrama.top##.forIndex.TitleHome
+honadrama.top##.menu-item-1060.menu-item-object-custom.menu-item-type-custom.menu-item
+honadrama.top##.imdbRating
+honadrama.top##.breadcrumbs
+honadrama.top##.TitleMovie > ul
+honadrama.top##.footer
+honadrama.top##.imdb
+honadrama.top##.w-100SinglePost
+honadrama.top##.CategoriesBrowse
+
+cimalina.live
+cimalina.live##.UserButton
+cimalina.live###sliderBlog
+cimalina.live##.forIndex.TitleHome
+cimalina.live##.imdbRating
+cimalina.live##.footer
+cimalina.live##.w-100SinglePost
+cimalina.live##.CategoriesBrowse
+cimalina.live##.breadcrumbs
+cimalina.live##.menu-item-384472.menu-item-object-page.menu-item-type-post_type.menu-item
+cimalina.live##.menu-item-420176.menu-item-privacy-policy.menu-item-object-page.menu-item-type-post_type.menu-item
+cimalina.live##.menu-item-439661.menu-item-object-custom.menu-item-type-custom.menu-item
+
+! ourdrama.pro
+o.ourdrama.pro##.nav-main-menu
+o.ourdrama.pro##.not-logged.navuser
+o.ourdrama.pro##section.mt-0.padding_50:nth-of-type(8)
+o.ourdrama.pro##.footer-top
+o.ourdrama.pro##.footer
+o.ourdrama.pro##.text-center.mt--10.single-episode-info
+o.ourdrama.pro##.text-center.float-none.info-comviewfav
+o.ourdrama.pro##.mb-0.style-2.gtitle
+o.ourdrama.pro##.pb-3.pt-5.block-bgcolor-att
+o.ourdrama.pro##.pb-3.pt-4
+o.ourdrama.pro##.text-left.align-self-end.col-md-4
+
+! GitHub: interface cleanups
+github.com##aside .dashboard-changelog.mb-4
+github.com##.js-notice
+github.com##aside.feed-right-sidebar[aria-label="Explore"]
+github.com##react-app[app-name="react-code-view"] button[data-testid="copilot-popover-button"]
+github.com##ul.ActionListWrap svg.octicon-copilot:upward(li)
+github.com##.js-profile-editable-replace img.achievement-badge-sidebar:upward(div.border-top)
+github.com##.js-unwatch-suggestions
+
+! YouTube: filter out Shorts
+www.youtube.com##ytd-guide-renderer a.yt-simple-endpoint path[d^="M10 14.65v-5.3L15 12l-5 2.65zm7.77-4.33"]:upward(ytd-guide-entry-renderer)
+www.youtube.com##ytd-mini-guide-renderer a.yt-simple-endpoint path[d^="M10 14.65v-5.3L15 12l-5 2.65zm7.77-4.33"]:upward(ytd-mini-guide-entry-renderer)
+www.youtube.com##ytd-browse[page-subtype="home"] .ytd-thumbnail[href^="/shorts/"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-browse[page-subtype="subscriptions"] .ytd-thumbnail[href^="/shorts/"]:upward(ytd-grid-video-renderer,ytd-rich-item-renderer)
+www.youtube.com##ytd-search .ytd-thumbnail[href^="/shorts/"]:upward(ytd-video-renderer)
+www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer .ytd-thumbnail[href^="/shorts/"]:upward(ytd-item-section-renderer)
+www.youtube.com##ytd-watch-next-secondary-results-renderer .ytd-thumbnail[href^="/shorts/"]:upward(ytd-compact-video-renderer,ytd-shelf-renderer)
+www.youtube.com##ytd-browse[page-subtype="trending"] .ytd-thumbnail[href^="/shorts/"]:upward(ytd-video-renderer)
+www.youtube.com##ytd-search .ytd-thumbnail[href^="/shorts/"]:upward(ytd-video-renderer)
+www.youtube.com##ytd-notification-renderer:has(> a[href^="/shorts/"])
+www.youtube.com##ytd-rich-shelf-renderer[is-shorts]
+www.youtube.com##ytd-rich-shelf-renderer[is-shorts].ytd-rich-section-renderer:upward(ytd-rich-section-renderer)
+www.youtube.com##ytd-reel-shelf-renderer
+m.youtube.com##ytm-reel-shelf-renderer
+m.youtube.com##ytm-pivot-bar-renderer div.pivot-shorts:upward(ytm-pivot-bar-item-renderer)
+m.youtube.com##ytm-browse ytm-item-section-renderer ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-video-with-context-renderer)
+m.youtube.com##ytm-browse ytm-item-section-renderer ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-compact-video-renderer)
+m.youtube.com##ytm-search ytm-thumbnail-overlay-time-status-renderer[data-style="SHORTS"]:upward(ytm-compact-video-renderer,ytm-video-with-context-renderer)
+m.youtube.com##ytm-single-column-watch-next-results-renderer ytm-thumbnail-overlay-time-status-renderer span:has-text(/^(0:\d\d|1:0\d)$/):upward(ytm-video-with-context-renderer)
+youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
+
+! YouTube: filter out mixes and radios
+www.youtube.com##ytd-browse #video-title-link[href*="&start_radio=1"]:upward(ytd-rich-item-renderer)
+www.youtube.com##ytd-search ytd-radio-renderer
+www.youtube.com##ytd-watch-next-secondary-results-renderer ytd-compact-radio-renderer
+www.youtube.com##ytd-player div.videowall-endscreen a[data-is-list=true]
+m.youtube.com##ytm-browse ytm-radio-renderer:upward(ytm-rich-item-renderer)
+m.youtube.com##ytm-search ytm-compact-radio-renderer
+youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
+
+! YouTube: filter out upcoming videos and streams
+www.youtube.com##ytd-browse ytd-grid-video-renderer:has(ytd-thumbnail-overlay-time-status-renderer[overlay-style="UPCOMING"])
+www.youtube.com##ytd-browse ytd-rich-item-renderer:has(ytd-thumbnail-overlay-time-status-renderer[overlay-style="UPCOMING"])
+www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer ytd-thumbnail-overlay-time-status-renderer[overlay-style="UPCOMING"]:upward(ytd-item-section-renderer)
+youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
+
+! YouTube: homepage interface cleanups
+www.youtube.com##ytd-browse[page-subtype="home"] ytd-rich-section-renderer:not(:has(ytd-feed-nudge-renderer))
+www.youtube.com##ytd-rich-item-renderer[is-post].ytd-rich-shelf-renderer:upward(ytd-rich-section-renderer)
+
+! YouTube: left menu interface cleanups
+www.youtube.com##tp-yt-app-drawer#guide .ytd-guide-section-renderer > #header:has(a[href="/feed/you"])
+www.youtube.com##a.ytd-guide-entry-renderer[href^="/feed/trending"]:upward(ytd-guide-section-renderer)
+www.youtube.com##h3 > #guide-section-title:has-text(YouTube):upward(ytd-guide-section-renderer)
+
+! YouTube: search interface cleanups
+www.youtube.com##ytd-search ytd-item-section-renderer ytd-shelf-renderer
+www.youtube.com##ytd-search ytd-item-section-renderer ytd-horizontal-card-list-renderer
+
+! YouTube: video playback interface cleanups
+www.youtube.com###clarify-box
+www.youtube.com###above-the-fold #middle-row ytd-info-panel-content-renderer
+www.youtube.com##ytd-shorts .disclaimer-container:upward(#info-panel)
+m.youtube.com##shorts-video ytm-info-panel-container-renderer
+www.youtube.com###description #info a[href^="/hashtag/"]
+www.youtube.com##.super-title
+m.youtube.com##.standalone-collection-badge a[href^="/hashtag/"]
+m.youtube.com##ytm-video-description-header-renderer button-view-model a[href^="/hashtag/"]
+www.youtube.com###actions.ytd-watch-metadata button > div[class$="text-content"]:not(:has-text(/[\d]/))
+www.youtube.com###actions.ytd-watch-metadata ytd-button-renderer .yt-spec-button-shape-next .yt-spec-button-shape-next--button-text-content
+www.youtube.com###actions.ytd-watch-metadata ytd-button-renderer .yt-spec-button-shape-next__icon:style(margin-right: -6px !important; margin-left: -6px !important;)
+m.youtube.com##ytm-slim-video-action-bar-renderer button [class*="button-text-content"]:not(:has-text(/\d/))
+m.youtube.com##ytm-slim-video-action-bar-renderer ytm-button-renderer div[class$="icon"]:style(margin-right: -6px !important; margin-left: -6px !important;)
+www.youtube.com###description .ytd-watch-metadata #items:has(.ytd-video-description-music-section-renderer)
+www.youtube.com###description .ytd-watch-metadata #items > ytd-horizontal-card-list-renderer:has(ytd-video-attribute-view-model)
+m.youtube.com##.video-attribute-card-shelf:has(yt-video-attribute-view-model):upward(ytm-horizontal-card-list-renderer)
+www.youtube.com###structured-description ytd-video-description-infocards-section-renderer
+m.youtube.com##ytm-video-description-infocards-section-renderer
+www.youtube.com###chat:remove()
+www.youtube.com###cinematics.ytd-watch-flexy:remove()
