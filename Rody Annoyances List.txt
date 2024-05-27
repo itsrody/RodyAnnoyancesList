@@ -110,6 +110,40 @@ www.tuktukcima.com##.WatcHTrailer.trl
 www.tuktukcima.com##.HomeSlider
 www.tuktukcima.com##.mobile--bars
 
+! asia2tv.com
+asia2tv.com###site-option
+asia2tv.com###dropdownuserpro
+asia2tv.com##.userlogged_favorites
+asia2tv.com##.show.dropdown-menu > li:nth-of-type(6)
+asia2tv.com###menu-mobile-menu > li > ul > li
+asia2tv.com###menu-mobile-menu > li > [href="https://asia2tv.com/serie/cate/drama-pro"]
+asia2tv.com##.home-movies.home-tvsries
+asia2tv.com##div.home-movies:nth-of-type(4)
+asia2tv.com##.home-news
+asia2tv.com##.footer-top
+asia2tv.com##.footer
+asia2tv.com##.show-qtip
+asia2tv.com##.liveicon
+asia2tv.com##.order-first.col-lg-8 > div.row > div.col-md-6
+asia2tv.com##.clearfix
+asia2tv.com##.info-detail-single > div > h4
+asia2tv.com##.info-detail-single > .mb-3
+asia2tv.com##.owl-drag.owl-loaded.owl-rtl.owl-celebrities.owl-carousel.style3.actros-style2.item-actros
+asia2tv.com##div.mb-2
+asia2tv.com##.mb-0.style-2.gtitle
+asia2tv.com##.text-center.alert-warning.alert
+asia2tv.com##.comment_area
+asia2tv.com##.text-center.float-none.info-comviewfav
+asia2tv.com##.pb-3.pt-5.block-bgcolor-att
+asia2tv.com###main-menu > li > [href="https://asia2tv.com/serie/cate/drama-pro"]
+asia2tv.com##h4.mb-0
+asia2tv.com##.text-left.align-self-end.col-lg-4
+asia2tv.com##.embed-player-tabs.server-list-menu > li:nth-of-type(2) > [href="javascript:void(0);"]
+asia2tv.com##.embed-player-tabs.server-list-menu > li:nth-of-type(2)
+asia2tv.com##div.pb-3.pt-5:nth-of-type(3)
+asia2tv.com##.btn-download
+asia2tv.com###mv-info
+
 ! topcinema.cam
 web3.topcinema.cam##.News--Bar
 web3.topcinema.cam##.Header--Social
