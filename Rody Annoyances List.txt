@@ -1,5 +1,5 @@
 ! Title: Rody Annoyances List
-! Description: Filters for clean many websites.
+! Description: Filters for clean many Arabic streaming websites.
 ! Author: Murtaza Salih
 ! Expires: 3 days
 ! Homepage: https://github.com/itsrody/RodyAnnoyancesList
@@ -281,6 +281,129 @@ o.ourdrama.pro##.mb-0.style-2.gtitle
 o.ourdrama.pro##.pb-3.pt-5.block-bgcolor-att
 o.ourdrama.pro##.pb-3.pt-4
 o.ourdrama.pro##.text-left.align-self-end.col-md-4
+
+! May 27, 2024 https://web.cimale3k.space
+web.cimale3k.space##.hs-toggles
+web.cimale3k.space##div.block_area_post.block_area:nth-of-type(4)
+web.cimale3k.space##.tren.block_area_post.block_area > .block_area-content > .posts_items
+web.cimale3k.space###menu-item-200163 > [href]
+web.cimale3k.space###menu-item-69 > [href]
+web.cimale3k.space##.fbox
+web.cimale3k.space##.under-poster
+web.cimale3k.space##div.block_area-comment.block_area:nth-of-type(3)
+web.cimale3k.space##div.block_area-comment.block_area:nth-of-type(4)
+web.cimale3k.space###similar_post
+web.cimale3k.space##.anisc-detail > .rating
+web.cimale3k.space##.item-list
+web.cimale3k.space##.w-hide.film-description
+web.cimale3k.space##.block_area_post.block_area > .block_area-header > .bah-heading > .cat-heading
+web.cimale3k.space##.Breadcrumbs
+web.cimale3k.space##.CimaSocialnetwork
+web.cimale3k.space##.module_single_sda
+web.cimale3k.space##.items-di.report-video-error
+web.cimale3k.space##.sea_btn
+web.cimale3k.space##.PostContent
+web.cimale3k.space##div.main_top_bt_1:nth-of-type(2)
+
+! arlionztv.pro
+arlionztv.pro##.fa__play
+arlionztv.pro##.twitter
+arlionztv.pro##.facebook
+arlionztv.pro##header > .MainMenus > custom--menu--master > ul > li.ChildrenMenu > [href="https://arlionztv.pro/download-series/"]
+arlionztv.pro##.telegram-anchor
+arlionztv.pro##.visible.GotoTop
+arlionztv.pro##arlionz--slider
+arlionztv.pro##.First--Style.Section--Titles
+arlionztv.pro##div.Posts--Single--Box:nth-of-type(3)
+arlionztv.pro##div.Posts--Single--Box:nth-of-type(4)
+arlionztv.pro##footer
+arlionztv.pro##.Singular--Cover > div.adsLionz
+arlionztv.pro##div.adsLionz:nth-of-type(3)
+arlionztv.pro##rootinside > div.adsLionz > [href="https://tinyurl.com/lionz-iptv"] > .size-full.wp-image-317131.alignnone
+arlionztv.pro##.BreadCRumbs
+arlionztv.pro##.Singular--Tax--category
+arlionztv.pro##singular--tabas
+arlionztv.pro##header > .MainMenus > custom--menu--master > ul > li.ChildrenMenu > [href="https://arlionztv.pro/category/other-shows/wrestling/"]
+arlionztv.pro##.Content--POST
+arlionztv.pro##.active__link.More--SinularData
+arlionztv.pro##div.FullIsW.Pop--Actors:nth-of-type(6)
+arlionztv.pro##div.FullIsW.Pop--Actors:nth-of-type(5)
+arlionztv.pro##.Singular--Story
+arlionztv.pro##.Singular--Geners
+arlionztv.pro##div.FullIsW.Pop--Actors:nth-of-type(8)
+arlionztv.pro##.PopVisTitle > em
+arlionztv.pro##servers--selected > p
+
+! shid4u.cam
+shid4u.cam##.social-media
+shid4u.cam##a.btn-hd.btn:nth-of-type(3)
+shid4u.cam##.footer
+shid4u.cam##.fillter
+shid4u.cam##.glide--swipeable.glide--carousel.glide--rtl.ltr.glide
+shid4u.cam##.row.stuff
+shid4u.cam##div.mb-2.align-items-start.d-flex:nth-of-type(2)
+shid4u.cam##.col-md-5.col-12
+shid4u.cam##.col-md-7.col-12 > div.mb-2.align-items-start.d-flex
+shid4u.cam##.col-lg-9.col-12 > .description
+shid4u.cam##.text-white.my-4
+
+! cimanow.cc
+cimanow.cc##.active.owl-item > .item > article > .btns > .shine
+cimanow.cc##.platforms
+cimanow.cc##section:nth-of-type(7)
+cimanow.cc##section:nth-of-type(10)
+cimanow.cc##section:nth-of-type(11)
+cimanow.cc##section:nth-of-type(14)
+cimanow.cc##footer
+cimanow.cc##.btns > .shine
+cimanow.cc##li.tab:nth-of-type(3)
+cimanow.cc##.social.tab
+
+t4cce4ma.shop
+t4cce4ma.shop##.ProductionsListButton
+t4cce4ma.shop##.LeftSideFlex
+t4cce4ma.shop##.menu-item-273057.menu-item-object-custom.menu-item-type-custom.menu-item
+t4cce4ma.shop##.LeftUI
+t4cce4ma.shop##.Slider--Grid
+t4cce4ma.shop##.Grid--WecimaPosts > div.GridItem > .PostItemStats
+t4cce4ma.shop##.visible.GotoTop
+t4cce4ma.shop##.menu-userarea--rightbar [href="https://t4cce4ma.shop/category/%d9%85%d8%b5%d8%a7%d8%b1%d8%b9%d8%a9-%d8%ad%d8%b1%d8%a9/"]
+t4cce4ma.shop##wecima--filter
+t4cce4ma.shop##.RightUI > .activable.hoverable
+t4cce4ma.shop##singlecontainerleft
+t4cce4ma.shop##.BreadcrumbsFilters
+t4cce4ma.shop##.-movie-info-share
+t4cce4ma.shop##.AsideContext
+t4cce4ma.shop##.WecimaonSocialnetwork
+t4cce4ma.shop##singlerelated
+t4cce4ma.shop##[href="https://t4cce4ma.shop/about-us/"]
+
+asiatv.one
+asiatv.one##[href="https://asiatv.one/%d9%82%d8%a7%d8%a6%d9%85%d8%a9-%d8%a7%d9%84%d9%81%d9%86%d8%a7%d9%86%d9%8a%d9%86/"]
+asiatv.one##[href="https://asiatv.one/%d8%af%d8%b1%d8%a7%d9%85%d8%a7-%d8%aa%d8%a8%d8%ab-%d8%ad%d8%a7%d9%84%d9%8a%d8%a7/"]
+asiatv.one##.owl-stage
+asiatv.one##section.secContainer:nth-of-type(2)
+asiatv.one##footer
+asiatv.one##section.secContainer:nth-of-type(4)
+asiatv.one##[href="https://asiatv.one/%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d9%85%d8%a7-%d8%a7%d9%84%d8%a7%d9%83%d8%ab%d8%b1-%d8%aa%d9%82%d9%8a%d9%8a%d9%85%d8%a7/"]
+asiatv.one##.description
+asiatv.one##.team
+asiatv.one##.sharethis
+asiatv.one##div.sec-main:nth-of-type(4)
+
+a.asiawiki.co
+a.asiawiki.co##.clearfix.header-inner
+a.asiawiki.co##.row > .con_Ad
+a.asiawiki.co###YSLMasterCountdown > .con_Ad
+a.asiawiki.co##.breadcrumb
+a.asiawiki.co##.widget
+a.asiawiki.co##.postThumb
+a.asiawiki.co##.footer
+a.asiawiki.co##.copyRight
+a.asiawiki.co##.secComments
+a.asiawiki.co##.description
+a.asiawiki.co##.mt10.secContent
+a.asiawiki.co##.mb10.secHead > .con_Ad
 
 ! GitHub: interface cleanups
 github.com##aside .dashboard-changelog.mb-4
