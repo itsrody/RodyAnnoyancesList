@@ -71,6 +71,7 @@ asia.5ivttv.vip###widget_list_movies_series-7
 asia.5ivttv.vip###widget_list_movies_series-4
 asia.5ivttv.vip###widget_list_movies_series-6
 asia.5ivttv.vip###widget_list_movies_series-5
+asia.5ivttv.vip##.tac.ft
 
 ! llodynet.site
 llodynet.site##.MainMenu
