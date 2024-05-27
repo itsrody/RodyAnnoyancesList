@@ -143,6 +143,10 @@ asia2tv.com##.embed-player-tabs.server-list-menu > li:nth-of-type(2)
 asia2tv.com##div.pb-3.pt-5:nth-of-type(3)
 asia2tv.com##.btn-download
 asia2tv.com###mv-info
+asia2tv.com##.popup-notification.text-center.alert-info.alert
+asia2tv.com##.popup-notification.text-center.alert-danger.alert
+asia2tv.com##.col-lg-8 > .logo
+asia2tv.com##div.home-movies:nth-of-type(6)
 
 ! topcinema.cam
 web3.topcinema.cam##.News--Bar
