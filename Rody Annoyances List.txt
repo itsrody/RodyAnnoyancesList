@@ -38,23 +38,39 @@ faselhds.world##.Teamwork.AsideContext
 faselhds.world##div.ralatedMovies
 faselhds.world##.postElse
 faselhds.world##.alert-danger.alert
+www.faselhds.world###streamBox > .streamHeader > .h4
+www.faselhds.world##.singleDesc
+www.faselhds.world##div.col-sm-6.col-md-6.col-lg-6.col-xl-6:nth-of-type(8)
 
-! 5ivttv.vip
-asia.5ivttv.vip##.blk.aa-mdl.fa-user.lnk.btn-login.btn
-asia.5ivttv.vip###trp-floater-ls
-asia.5ivttv.vip##.tac.ft
-asia.5ivttv.vip##.alg-cr.jst-sb.dfxa
-asia.5ivttv.vip##.widget.comments-area
-asia.5ivttv.vip##section.episodes.section:nth-of-type(2)
-asia.5ivttv.vip###fav-tv
-asia.5ivttv.vip##.menu-item-106263.menu-item-object-page.menu-item-type-post_type.menu-item
+! qw.spotnews.buzz
+qw.spotnews.buzz##.category-2.hentry.format-standard.status-publish.type-post.post.post-1
+qw.spotnews.buzz###site-footer
+qw.spotnews.buzz##.sticky-bottom-close
+qw.spotnews.buzz##.header-footer-group.has-text-align-center.entry-header
+qw.spotnews.buzz##.entry-content
+qw.spotnews.buzz##.pagination-single-inner
+qw.spotnews.buzz##.only-prev.only-one.section-inner.pagination-single
+qw.spotnews.buzz##.comment-respond
+qw.spotnews.buzz##.section-inner.pagination-single
 
-asia2tv.pw
-ww1.asia2tv.pw##div.row:nth-of-type(10) > .col-md-7
-ww1.asia2tv.pw###footer-top > .container > .row
-ww1.asia2tv.pw##footer
-ww1.asia2tv.pw##.comments-area
-ww1.asia2tv.pw##.col-md-7
+! asia.5ivttv.vip
+asia.5ivttv.vip##.episodes.section
+asia.5ivttv.vip##.description
+asia.5ivttv.vip##.fwp.dfx.cast-lst
+asia.5ivttv.vip##.odp
+asia.5ivttv.vip##.menu-item-129997.menu-item-object-page.menu-item-type-post_type.menu-item
+asia.5ivttv.vip###menu-item-44587 > [href="/release/2023/"]
+asia.5ivttv.vip###menu-item-28656 > [href="/release/2024/"]
+asia.5ivttv.vip###menu-item-51901 > [href^="/category/hendi-rows/"]
+asia.5ivttv.vip###menu-item-51902 > [href^="/category/turkey-rows/"]
+asia.5ivttv.vip###menu-item-51897 > [href^="/category/turkey-rows/"]
+asia.5ivttv.vip###menu-item-51890 > [href^="/category/hendi-rows/"]
+asia.5ivttv.vip###widget_list_movies_series-11
+asia.5ivttv.vip###widget_list_movies_series-12
+asia.5ivttv.vip###widget_list_movies_series-7
+asia.5ivttv.vip###widget_list_movies_series-4
+asia.5ivttv.vip###widget_list_movies_series-6
+asia.5ivttv.vip###widget_list_movies_series-5
 
 ! llodynet.site
 llodynet.site##.MainMenu
