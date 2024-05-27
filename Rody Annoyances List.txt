@@ -405,6 +405,31 @@ a.asiawiki.co##.description
 a.asiawiki.co##.mt10.secContent
 a.asiawiki.co##.mb10.secHead > .con_Ad
 
+! kaido.to
+kaido.to##.container > .header-setting > .hs-toggles
+kaido.to##.zoro-group
+kaido.to###header_right
+kaido.to###footer
+kaido.to###anime-trending
+kaido.to##.share-buttons-block
+kaido.to##.anif-blocks
+kaido.to##html > div
+kaido.to##section.block_area_home.block_area:nth-of-type(2)
+kaido.to###main-sidebar
+kaido.to###wrapper > .active
+kaido.to##section.block_area_home.block_area:nth-of-type(3)
+kaido.to##.sb-setting > .header-setting > .hs-toggles
+kaido.to##.sb-setting > .header-setting
+kaido.to##li.nav-item:nth-of-type(11)
+kaido.to##.w-hide.film-text
+kaido.to###watch-list-content
+kaido.to##.schedule-alert
+kaido.to##.block_area-comment.block_area
+kaido.to##.dt-rate
+kaido.to##.anis-watch-detail
+kaido.to##.block_area-actors.block_area
+kaido.to##.block_area-promotions.block_area
+
 ! GitHub: interface cleanups
 github.com##aside .dashboard-changelog.mb-4
 github.com##.js-notice
