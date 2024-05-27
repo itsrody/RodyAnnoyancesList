@@ -147,6 +147,7 @@ asia2tv.com##.popup-notification.text-center.alert-info.alert
 asia2tv.com##.popup-notification.text-center.alert-danger.alert
 asia2tv.com##.col-lg-8 > .logo
 asia2tv.com##div.home-movies > .container > div.row
+asia2tv.com###div.home-movies > .container > .text-center.is_mobile.lmore
 
 ! topcinema.cam
 web3.topcinema.cam##.News--Bar
