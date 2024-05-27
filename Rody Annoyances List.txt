@@ -256,7 +256,7 @@ honadrama.top##.imdb
 honadrama.top##.w-100SinglePost
 honadrama.top##.CategoriesBrowse
 
-cimalina.live
+! cimalina.live
 cimalina.live##.UserButton
 cimalina.live###sliderBlog
 cimalina.live##.forIndex.TitleHome
@@ -282,7 +282,7 @@ o.ourdrama.pro##.pb-3.pt-5.block-bgcolor-att
 o.ourdrama.pro##.pb-3.pt-4
 o.ourdrama.pro##.text-left.align-self-end.col-md-4
 
-! May 27, 2024 https://web.cimale3k.space
+! cimale3k.space
 web.cimale3k.space##.hs-toggles
 web.cimale3k.space##div.block_area_post.block_area:nth-of-type(4)
 web.cimale3k.space##.tren.block_area_post.block_area > .block_area-content > .posts_items
@@ -359,7 +359,7 @@ cimanow.cc##.btns > .shine
 cimanow.cc##li.tab:nth-of-type(3)
 cimanow.cc##.social.tab
 
-t4cce4ma.shop
+! t4cce4ma.shop
 t4cce4ma.shop##.ProductionsListButton
 t4cce4ma.shop##.LeftSideFlex
 t4cce4ma.shop##.menu-item-273057.menu-item-object-custom.menu-item-type-custom.menu-item
@@ -378,7 +378,7 @@ t4cce4ma.shop##.WecimaonSocialnetwork
 t4cce4ma.shop##singlerelated
 t4cce4ma.shop##[href="https://t4cce4ma.shop/about-us/"]
 
-asiatv.one
+! asiatv.one
 asiatv.one##[href="https://asiatv.one/%d9%82%d8%a7%d8%a6%d9%85%d8%a9-%d8%a7%d9%84%d9%81%d9%86%d8%a7%d9%86%d9%8a%d9%86/"]
 asiatv.one##[href="https://asiatv.one/%d8%af%d8%b1%d8%a7%d9%85%d8%a7-%d8%aa%d8%a8%d8%ab-%d8%ad%d8%a7%d9%84%d9%8a%d8%a7/"]
 asiatv.one##.owl-stage
@@ -391,7 +391,7 @@ asiatv.one##.team
 asiatv.one##.sharethis
 asiatv.one##div.sec-main:nth-of-type(4)
 
-a.asiawiki.co
+! a.asiawiki.co
 a.asiawiki.co##.clearfix.header-inner
 a.asiawiki.co##.row > .con_Ad
 a.asiawiki.co###YSLMasterCountdown > .con_Ad
