@@ -616,6 +616,8 @@ manjanoon.org##.bottom
 manjanoon.org##.bixbox.ts-breadcrumb
 manjanoon.org##.socialts
 manjanoon.org##.bookmark
+manjanoon.org##.bmc
+manjanoon.org##div.kln:nth-of-type(5)
 
 ! GitHub: interface cleanups
 github.com##aside .dashboard-changelog.mb-4
