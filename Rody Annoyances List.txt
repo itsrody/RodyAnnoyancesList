@@ -464,6 +464,115 @@ mangareader.to###main-sidebar
 mangareader.to##.mr-2.hr-comment
 mangareader.to##.mr-2.hr-info > .hrr-btn.btn-sm.btn
 
+! manhwaclan.com
+manhwaclan.com##.main-menu > .main-navbar.navbar-nav.nav
+manhwaclan.com##.c-sub-nav_wrap > .c-modal_item
+manhwaclan.com##.link-adv-search
+manhwaclan.com##.c-top-second-sidebar.c-sidebar
+manhwaclan.com##.body-top-ads.custom-code.c-ads.ad
+manhwaclan.com##.main-sidebar
+manhwaclan.com##.site-footer
+manhwaclan.com##.active.go-to-top
+manhwaclan.com##.c-togle__menu
+
+! manhwatop.com
+manhwatop.com###menu-item-420 > [href="https://manhwatop.com/blogpost/"]
+manhwatop.com##.link-adv-search
+manhwatop.com##.c-sub-nav_wrap > .c-modal_item
+manhwatop.com##.with-border.c-sub-header-nav
+manhwatop.com##.c-top-sidebar.c-sidebar
+manhwatop.com##.c-top-second-sidebar.c-sidebar
+manhwatop.com##.col-sm-8.col-md-8.main-col > div.c-sidebar
+manhwatop.com##.main-sidebar
+manhwatop.com##.site-footer
+manhwatop.com##.main-col-inner > .font-heading.style-2.c-blog__heading
+manhwatop.com##.wp-manga-tags
+manhwatop.com##.row.hidden-xs.share_content_socical
+manhwatop.com##.breadcrumb
+manhwatop.com##.manga-action
+manhwatop.com###init-links
+manhwatop.com##.related-manga.c-row.row
+manhwatop.com##.col-sm-4.col-md-4.sidebar-col
+manhwatop.com##.active.go-to-top
+manhwatop.com##.c-modal_item
+manhwatop.com###nav-menu-item-420
+
+! mangarose.net
+mangarose.net##.wp-manga.c-top-sidebar.c-sidebar
+mangarose.net##[href="https://mangarose.net/category/%d8%b9%d8%a7%d9%85/"]
+mangarose.net##.c-breadcrumb
+mangarose.net##.genres_wrap
+mangarose.net##.font-heading.style-2.c-blog__heading > .h4
+mangarose.net###menu-item-548 > [href="https://mangarose.net/%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa-%d8%b9%d9%86%d8%a7/"]
+mangarose.net###menu-item-546 > [href^="https://mangarose.net/manga/"]
+mangarose.net##.c-modal_item
+mangarose.net###menu-item-481 > [href="https://mangarose.net/manga/"]
+mangarose.net##.manga-action
+mangarose.net###init-links
+mangarose.net##.main-sidebar
+mangarose.net##.site-footer
+mangarose.net##.main-col-inner > .font-heading.style-2.c-blog__heading
+mangarose.net##.back.btn
+mangarose.net##.list-inline.action_list_icon
+mangarose.net##.col-sm-4.col-md-4.sidebar-col
+mangarose.net##.c-bottom-sidebar.c-sidebar
+mangarose.net##.c-top-sidebar.c-sidebar
+mangarose.net##.c-top-second-sidebar.c-sidebar
+
+! azoramoon.com
+azoramoon.com##.top.wpfront-fixed.wpfront-notification-bar
+azoramoon.com###menu-item-46478 > [href="/vip3/"]
+azoramoon.com##.link-adv-search
+azoramoon.com##.c-modal_item
+azoramoon.com###menu-item-20895 > [href]
+azoramoon.com##.c-sub-nav_wrap
+azoramoon.com##.site-footer
+azoramoon.com##.style-1.c-widget-content
+azoramoon.com##.c-top-sidebar.c-sidebar
+azoramoon.com##.col-sm-4.col-md-4.sidebar-co
+azoramoon.com##.c-page.main-col-inner > .font-heading.style-2.c-blog__heading
+azoramoon.com##div.manga-info-row:nth-of-type(3)
+azoramoon.com###init-links
+azoramoon.com##.col-sm-4.col-md-4.sidebar-col
+azoramoon.com##.main-col-inner > .font-heading.style-2.c-blog__heading
+azoramoon.com##.c-page__content > .font-heading.style-2.c-blog__heading
+azoramoon.com##div.post-content_item:nth-of-type(7)
+azoramoon.com##.back.btn
+
+! lekmanga.net
+lekmanga.net##li:nth-of-type(1) > .wp-manga-action-button
+lekmanga.net##.breadcrumb
+lekmanga.net###menu-item-63026 > [href="/login/"]
+lekmanga.net##.c-sub-nav_wrap
+lekmanga.net##.manga-action
+lekmanga.net##.site-footer
+lekmanga.net##.link-adv-search
+lekmanga.net##.genres_wrap
+||lekmanga.net/wp-content/themes/madara/images/bg-search.jpg$image
+lekmanga.net##.font-heading.style-2.c-blog__heading > .h4
+lekmanga.net##.c-search-header__wrapper
+
+! normoyun.com
+normoyun.com##.navuser
+normoyun.com##.me-auto > .model-thebox
+normoyun.com##.surprise
+normoyun.com##[href="page/الإشتراك"]
+normoyun.com##[href="vip"]
+normoyun.com##[href="blog"]
+normoyun.com##[href="favorites"]
+normoyun.com##.flex-sidebar
+normoyun.com##.alert-dismissible.text-center.alert-danger.alert
+normoyun.com##.m-auto.bloglist.container
+normoyun.com###footer
+normoyun.com###teaser3-ads
+normoyun.com##.mb-1.tools-ch
+normoyun.com##.breadcrumb
+normoyun.com##.bottom
+normoyun.com##.read-chapter-box
+normoyun.com##.donation_manga_info
+normoyun.com##.bigcover
+normoyun.com##.ad-banner.kln.mlb.blox
+
 ! GitHub: interface cleanups
 github.com##aside .dashboard-changelog.mb-4
 github.com##.js-notice
