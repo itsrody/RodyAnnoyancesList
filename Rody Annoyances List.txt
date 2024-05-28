@@ -445,6 +445,25 @@ kaido.to###xfooter-about
 kaido.to###xsearch > .clearfix
 kaido.to##.xhashtag
 
+! mangareader.to
+mangareader.to##.home-sub-header
+mangareader.to##.content-home > .container
+mangareader.to###footer
+mangareader.to###discussion
+mangareader.to##.text-home
+mangareader.to###user-slot
+mangareader.to##.category_block-home.category_block
+mangareader.to##.container > .block_area_featured.block_area
+mangareader.to###manga-trending
+mangareader.to##.block_area-realtime.block_area_sidebar.block_area
+mangareader.to###reading-list-info
+mangareader.to##.block-rating
+mangareader.to##div.item-title.item:nth-of-type(4)
+mangareader.to##div.item-title.item:nth-of-type(5)
+mangareader.to###main-sidebar
+mangareader.to##.mr-2.hr-comment
+mangareader.to##.mr-2.hr-info > .hrr-btn.btn-sm.btn
+
 ! GitHub: interface cleanups
 github.com##aside .dashboard-changelog.mb-4
 github.com##.js-notice
