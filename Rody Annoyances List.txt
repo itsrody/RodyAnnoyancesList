@@ -72,6 +72,10 @@ asia.5ivttv.vip###widget_list_movies_series-4
 asia.5ivttv.vip###widget_list_movies_series-6
 asia.5ivttv.vip###widget_list_movies_series-5
 asia.5ivttv.vip##.tac.ft
+asia.5ivttv.vip##.rcl0c.rfg1.rw.options
+asia.5ivttv.vip##.vote-cn
+asia.5ivttv.vip###menu-item-106263 > [href="https://asia.5ivttv.vip/favorites/"]
+asia.5ivttv.vip##.blk.aa-mdl.fa-user.lnk.btn-login.btn
 
 ! llodynet.site
 llodynet.site##.MainMenu
@@ -148,6 +152,8 @@ asia2tv.com##.popup-notification.text-center.alert-info.alert
 asia2tv.com##.popup-notification.text-center.alert-danger.alert
 asia2tv.com##.col-lg-8 > .logo
 asia2tv.com##div.home-movies:nth-of-type(6)
+asia2tv.com##.style3.actros-style2.item-actros
+asia2tv.com##.info-datetime
 
 ! topcinema.cam
 web3.topcinema.cam##.News--Bar
@@ -391,6 +397,8 @@ asiatv.one##.description
 asiatv.one##.team
 asiatv.one##.sharethis
 asiatv.one##div.sec-main:nth-of-type(4)
+asia2tv.com##.style3.actros-style2.item-actros
+asia2tv.com##.info-datetime
 
 ! a.asiawiki.co
 a.asiawiki.co##.clearfix.header-inner
