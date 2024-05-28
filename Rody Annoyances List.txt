@@ -415,6 +415,8 @@ a.asiawiki.co##.mt10.secContent
 a.asiawiki.co##.mb10.secHead > .con_Ad
 
 ! kaido.to
+kaido.to##[src="/images/kaido-min.png"]
+||kaido.to/images/home-bg.jpg$image
 kaido.to##.container > .header-setting > .hs-toggles
 kaido.to##.zoro-group
 kaido.to###header_right
@@ -438,6 +440,10 @@ kaido.to##.dt-rate
 kaido.to##.anis-watch-detail
 kaido.to##.block_area-actors.block_area
 kaido.to##.block_area-promotions.block_area
+kaido.to##.mwb-left
+kaido.to###xfooter-about
+kaido.to###xsearch > .clearfix
+kaido.to##.xhashtag
 
 ! GitHub: interface cleanups
 github.com##aside .dashboard-changelog.mb-4
