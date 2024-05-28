@@ -573,6 +573,50 @@ normoyun.com##.donation_manga_info
 normoyun.com##.bigcover
 normoyun.com##.ad-banner.kln.mlb.blox
 
+! mangaflame.org
+mangaflame.org##.top.wpfront-fixed.wpfront-notification-bar
+mangaflame.org###menu-item-154460 > [href="#"]
+mangaflame.org##[href="https://mangaflame.org/bookmark/"]
+mangaflame.org###menu-item-154814 > [href="https://mangaflame.org/"]
+mangaflame.org##.wrapernum3.slider-wrapper
+mangaflame.org##.full.hothome.bixbox
+mangaflame.org##.anouncement
+mangaflame.org##.adsbygoogle
+mangaflame.org###sidebar
+mangaflame.org###footer
+mangaflame.org##div.bixbox:nth-of-type(6)
+mangaflame.org##.entry-content-single.entry-content > p
+mangaflame.org##.socialts
+mangaflame.org##.bixbox.info-desc
+mangaflame.org##.donate-script
+mangaflame.org##.bokmanga
+mangaflame.org##.bookmark
+mangaflame.org##.comments-area.bixbox
+mangaflame.org##.chdesc
+mangaflame.org##.bixbox.ts-breadcrumb
+mangaflame.org##div.bixbox:nth-of-type(2)
+mangaflame.org##.chaptertags
+
+! manjanoon.org
+manjanoon.org##[href="https://manjanoon.org/%d9%86%d8%b8%d8%a7%d9%85-%d8%a7%d9%84%d8%b9%d8%b6%d9%88%d9%8a%d8%a7%d8%aa/"]
+manjanoon.org##[href="https://manjanoon.org/bookmarks/"]
+manjanoon.org##div.kln:nth-of-type(1)
+manjanoon.org##.kln.mlb.blox
+manjanoon.org##div.kln:nth-of-type(3)
+manjanoon.org##div.kln:nth-of-type(4)
+manjanoon.org###floatcenter
+manjanoon.org###close-teaser
+manjanoon.org###teaser3
+manjanoon.org##.site-footer
+manjanoon.org##div.bixbox:nth-of-type(6)
+manjanoon.org##.menu-top-menu-container > .menu
+manjanoon.org###sidebar
+manjanoon.org##.topmobile
+manjanoon.org##.bottom
+manjanoon.org##.bixbox.ts-breadcrumb
+manjanoon.org##.socialts
+manjanoon.org##.bookmark
+
 ! GitHub: interface cleanups
 github.com##aside .dashboard-changelog.mb-4
 github.com##.js-notice
