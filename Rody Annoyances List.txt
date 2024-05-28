@@ -619,6 +619,24 @@ manjanoon.org##.bookmark
 manjanoon.org##.bmc
 manjanoon.org##div.kln:nth-of-type(5)
 
+! ar-thunderepic.com
+ar-thunderepic.com##.menu-item-93.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
+ar-thunderepic.com##.menu-item-96.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
+ar-thunderepic.com##[href="https://ar-thunderepic.com/login/"] > span
+ar-thunderepic.com##.socials-menu
+ar-thunderepic.com##.important-message
+ar-thunderepic.com##.slidernew
+ar-thunderepic.com###footer
+ar-thunderepic.com##.info-half > .extra-info > .mobile-rt
+ar-thunderepic.com##.desktop-titles
+ar-thunderepic.com##.disabled-bookmark
+ar-thunderepic.com##.comments-area.bixbox
+ar-thunderepic.com##div.bixbox:nth-of-type(2)
+ar-thunderepic.com##.navlef > span.r.npv > .nextprev > .disabled.ch-report-btn
+ar-thunderepic.com##.wrapper > .hotslid
+ar-thunderepic.com###manga-posts > div.\31 .styletere.bs > .bsx > .bigor > .info > .extra-info > .mobile-rt
+ar-thunderepic.com##.postbody > .hotslid
+
 ! GitHub: interface cleanups
 github.com##aside .dashboard-changelog.mb-4
 github.com##.js-notice
