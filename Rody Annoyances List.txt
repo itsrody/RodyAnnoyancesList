@@ -637,6 +637,20 @@ ar-thunderepic.com##.wrapper > .hotslid
 ar-thunderepic.com###manga-posts > div.\31 .styletere.bs > .bsx > .bigor > .info > .extra-info > .mobile-rt
 ar-thunderepic.com##.postbody > .hotslid
 
+! areascans.net
+www.areascans.net##.thirdPartHeader
+www.areascans.net###show-login-popup
+www.areascans.net##.menu-item-99392.menu-item-object-custom.menu-item-type-custom.menu-item.xoo-el-login-tgr
+www.areascans.net##.swiper-rtl.swiper-pointer-events.swiper-horizontal.swiper-initialized.swiper-container.big-slider
+www.areascans.net##.hotslid
+www.areascans.net##div.important-message:nth-of-type(1)
+www.areascans.net##div.important-message:nth-of-type(2)
+www.areascans.net###sidebar
+www.areascans.net###close-teaser
+www.areascans.net##.feed
+www.areascans.net###footer
+www.areascans.net##.Rivo-Novel-center
+
 ! GitHub: interface cleanups
 github.com##aside .dashboard-changelog.mb-4
 github.com##.js-notice
