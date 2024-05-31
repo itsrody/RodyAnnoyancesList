@@ -78,29 +78,32 @@ asia.5ivttv.vip###menu-item-106263 > [href="https://asia.5ivttv.vip/favorites/"]
 asia.5ivttv.vip##.blk.aa-mdl.fa-user.lnk.btn-login.btn
 
 ! llodynet.site
-llodynet.site##.MainMenu
+llodynet.site##.SiteSlider
 llodynet.site##.RightHeader
 llodynet.site##.SocialArea
-llodynet.site##.SiteSlider
 llodynet.site##.FeaturedActors
+llodynet.site##footer
+llodynet.site##.RecentPostsTitleBar
 llodynet.site##div.Section:nth-of-type(1)
 llodynet.site##div.Section:nth-of-type(2)
 llodynet.site##div.Section:nth-of-type(3)
-llodynet.site##footer
-llodynet.site##.Title
-llodynet.site##.Left.Ad160 > aside
-llodynet.site##.AdditionalButtons > ul
+llodynet.site##[href="https://lodynet.link/contact-us/"]
+llodynet.site##[href="https://llodynet.site/%d8%a7%d9%84%d9%85%d9%85%d8%ab%d9%84%d9%8a%d9%86/"]
+llodynet.site###menu-item-252273 > [href="#"]
+llodynet.site##[href="https://llodynet.site/dubbed-indian-series-p4/"]
+llodynet.site##.Breadcrumbs
+llodynet.site##.TitleSingle > ul
+llodynet.site##.ReactArea
+llodynet.site##.SocialShare
 llodynet.site##.PostTags
-llodynet.site##.ReactArea > ul
+llodynet.site##.AdditionalButtons
 llodynet.site##.SingleAboveWatch
 llodynet.site##.WatchTitle
 llodynet.site##aside
 llodynet.site##div.RelatedSection.RecentPosts:nth-of-type(6)
-llodynet.site##.BlocksGrid
 llodynet.site##div.RelatedSection.RecentPosts:nth-of-type(7)
-llodynet.site##.Breadcrumbs
-llodynet.site##li.category:nth-of-type(2)
-llodynet.site##.DetailsBoxContentInner > h2
+llodynet.site##.Left.Ad160
+llodynet.site##.Tabs > ul > li:nth-of-type(2)
 
 ! tuktokcinema.com
 www.tuktukcima.com###popup
