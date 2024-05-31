@@ -466,6 +466,10 @@ egydead.space##div.VHolder:nth-of-type(3)
 egydead.space##[src="https://egydead.space/wp-content/uploads/2023/12/Download.png"]
 egydead.space##.singleTopper
 egydead.space##.singleStory
+egydead.space##.breadcrumbs-single
+egydead.space##.singleBottomArea
+egydead.space##.trailerBtn
+egydead.space##.downloadMaster
 
 ! May 31, 2024 https://www.arabanime.net
 www.arabanime.net##.container-footer.container-fluid
