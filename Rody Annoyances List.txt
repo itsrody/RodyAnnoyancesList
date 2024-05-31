@@ -279,19 +279,6 @@ cimalina.live##.menu-item-384472.menu-item-object-page.menu-item-type-post_type.
 cimalina.live##.menu-item-420176.menu-item-privacy-policy.menu-item-object-page.menu-item-type-post_type.menu-item
 cimalina.live##.menu-item-439661.menu-item-object-custom.menu-item-type-custom.menu-item
 
-! May 31, 2024 ourdrama.pro
-o.ourdrama.pro##.nav-main-menu
-o.ourdrama.pro##.not-logged.navuser
-o.ourdrama.pro##section.mt-0.padding_50:nth-of-type(8)
-o.ourdrama.pro##.footer-top
-o.ourdrama.pro##.footer
-o.ourdrama.pro##.text-center.mt--10.single-episode-info
-o.ourdrama.pro##.text-center.float-none.info-comviewfav
-o.ourdrama.pro##.mb-0.style-2.gtitle
-o.ourdrama.pro##.pb-3.pt-5.block-bgcolor-att
-o.ourdrama.pro##.pb-3.pt-4
-o.ourdrama.pro##.text-left.align-self-end.col-md-4
-
 ! May 31, 2024 cimale3k.space
 web.cimale3k.space##.hs-toggles
 web.cimale3k.space##div.block_area_post.block_area:nth-of-type(4)
@@ -417,6 +404,124 @@ a.asiawiki.co##.secComments
 a.asiawiki.co##.description
 a.asiawiki.co##.mt10.secContent
 a.asiawiki.co##.mb10.secHead > .con_Ad
+
+! May 31, 2024 https://witanime.cyou
+witanime.cyou##.dropdown-toggle.btn
+witanime.cyou##[href="https://witanime.cyou/contact-us/"]
+witanime.cyou##.footer
+witanime.cyou##div.page-content-container.content:nth-of-type(9)
+witanime.cyou##div.page-content-container:nth-of-type(7)
+witanime.cyou##div.page-content-container.content:nth-of-type(4)
+witanime.cyou##div:nth-of-type(5)
+witanime.cyou##.triangle-down-gray.triangle-down
+witanime.cyou##.owl-drag.owl-loaded.owl-rtl.owl-carousel-lucodeia-slider.owl-theme.owl-carousel > .owl-stage-outer > .owl-stage
+witanime.cyou###disqus_thread
+witanime.cyou##.episode-download-container.content
+witanime.cyou##strong
+witanime.cyou##.main-didget-head
+witanime.cyou##.user-post-info-content
+witanime.cyou##.custom-notice > p
+
+! May 31, 2024 https://ww3.animerco.org
+ww3.animerco.org##.icon-btn.dropdown-btn
+ww3.animerco.org##.main-footer
+ww3.animerco.org##.social-single
+ww3.animerco.org##.anime-ad
+ww3.animerco.org##.menu-item-103541.menu-item-object-page.menu-item-type-post_type.menu-item
+ww3.animerco.org##.pt15.pb15.tx-align-center.single-ad > .container
+ww3.animerco.org##.comments-area
+ww3.animerco.org##.mb20.download-list
+ww3.animerco.org##.episode-date
+
+! May 31, 2024 https://anime3rb.com
+anime3rb.com##.p-4.dark\:bg-primary-600\/50.bg-primary-100.mx-auto.w-full.gap-4.justify-center.items-center.flex
+anime3rb.com##.py-8.xl\:px-6.px-4.dark\:bg-dark-700\/20.bg-gray-100.relative
+anime3rb.com##.justify-between.items-center.gap-3.flex.py-5.xl\:px-5.px-4.dark\:bg-dark-700\/40.bg-gray-50.shadow-sm.rounded-xl
+anime3rb.com##.md\:flex.hidden.xl\:ms-6.lg\:ms-2 > a.dark\:active\:bg-dark-600.active\:bg-gray-200.dark\:focus\:bg-dark-700.focus\:bg-gray-100.dark\:hover\:bg-dark-700.hover\:bg-gray-100.py-2.px-4.dark\:focus\:text-gray-100.dark\:hover\:text-gray-100.dark\:text-gray-200.focus\:text-gray-900.hover\:text-gray-900.text-gray-700.rounded-lg.inline-block.focus\:outline-none:nth-of-type(2)
+anime3rb.com##.sm\:relative
+anime3rb.com##.overflow-hidden.flex-grow.flex-col.justify-between.flex > .dark\:bg-dark-800.bg-white
+anime3rb.com##.my-3.p-6.dark\:bg-dark-700\/30.bg-gray-100\/80.justify-center.items-center.gap-4.flex-col.flex
+anime3rb.com##.dark\:bg-dark-700\/30.bg-yellow-50.justify-between.items-center.gap-2.flex.\!rounded-none.\!py-5.\!px-8.dark\:\!text-gray-150.dark\:opacity-95.dark\:active\:bg-dark-600.active\:bg-gray-200.dark\:focus\:bg-dark-700.focus\:bg-gray-100.dark\:hover\:bg-dark-700.hover\:bg-gray-100.py-2.px-4.dark\:focus\:text-gray-100.dark\:hover\:text-gray-100.dark\:text-gray-200.focus\:text-gray-900.hover\:text-gray-900.text-gray-700.rounded-lg.inline-block.focus\:outline-none
+anime3rb.com##.-bottom-\[1px\].sticky
+anime3rb.com##.py-8.xl\:px-6.px-4.dark\:bg-dark-790.bg-gray-100
+anime3rb.com##.dark\:bg-dark-700\/30.bg-gray-100\/70.rounded-lg.flex-col.flex
+anime3rb.com##.md\:relative > .flex-wrap.flex.flex-grow
+
+! May 31, 2024 https://animhq.com
+animhq.com##.account
+animhq.com##.itemplans
+animhq.com##.promoNav > ul > li.menu-item-object-category.menu-item-type-taxonomy.menu-item > [href^="https://animhq.com/category/movies/"]
+animhq.com##li.menu-item-object-category.menu-item-type-taxonomy.menu-item > [href="https://animhq.com/donate/"]
+animhq.com##li.menu-item-object-category.menu-item-type-taxonomy.menu-item > [href="https://animhq.com/contactus/"]
+animhq.com##.bodytopmargin
+animhq.com##footer
+animhq.com##.callforaction
+
+! May 31, 2024 https://egydead.space
+egydead.space##.menuBtn
+egydead.space##footer
+egydead.space##.pin-posts-list
+egydead.space##.owl-stage
+egydead.space##div.VHolder:nth-of-type(3)
+egydead.space##[src="https://egydead.space/wp-content/uploads/2023/12/Download.png"]
+egydead.space##.singleTopper
+egydead.space##.singleStory
+
+! May 31, 2024 https://www.arabanime.net
+www.arabanime.net##.container-footer.container-fluid
+www.arabanime.net##li.text-right.nav-item:nth-of-type(4)
+www.arabanime.net##li.text-right.nav-item:nth-of-type(3)
+www.arabanime.net###as-ep > .row
+
+! May 31, 2024 https://www.arabgamezone.com
+www.arabgamezone.com##.logo-wrapper
+www.arabgamezone.com##.main-nav-wrapper
+www.arabgamezone.com##div.row:nth-of-type(4)
+www.arabgamezone.com##.mx-auto.mb-3.mt-5.col-10
+www.arabgamezone.com##.site-info-layout-2.site-info
+www.arabanime.net##.breadcrumb
+
+! May 31, 2024 https://halacima.media
+halacima.media##.header-nav
+halacima.media###toTop
+halacima.media##[href="https://anime4up.cam/"]
+halacima.media##li.dropdown:nth-of-type(3)
+halacima.media##li.dropdown:nth-of-type(2)
+halacima.media##footer.bg1
+halacima.media##.btn-trailer
+halacima.media##.single-full
+halacima.media##.the-tags
+halacima.media##.mb-10.mt-10.section-post
+halacima.media##.mt-10.section-post
+
+! May 31, 2024 https://best-drama.com
+best-drama.com##.align-items--center.row > div.col-md-6 > .logo
+best-drama.com##section.mt-0.padding_50:nth-of-type(4)
+best-drama.com##section.mt-0.padding_50:nth-of-type(2)
+best-drama.com##.clearfix
+best-drama.com##.text-left.col-lg-6.col-md-12
+best-drama.com##.pl-0.pr-0.col-lg-3.col-md-6
+best-drama.com##h4.mb-0
+best-drama.com##div.pb-3.pt-5:nth-of-type(2)
+
+! May 31, 2024 https://bingewatch.to
+bingewatch.to##.breadcrumb
+bingewatch.to###top-account
+bingewatch.to##.btn-wl-single.btn-sm.btn
+bingewatch.to##.smoothlink.btn-sm.btn
+bingewatch.to##div.sb-item:nth-of-type(2)
+bingewatch.to##.player-resize.item > .btn-sm.btn
+bingewatch.to###movie-discussion > .container > .section-area
+bingewatch.to##.rating-wrap
+bingewatch.to##.top-menu-nav [href="/top-imdb"]
+bingewatch.to###RIqoKL__footer
+bingewatch.to##.welcome-article strong
+bingewatch.to##.share-note
+bingewatch.to##.section-chart.section-padding.section-row
+bingewatch.to##.x-c-share
+bingewatch.to##.section-area > .section-items-default.section-items > div.item > .movie-thumbnail > .pos-center > .is-fav
+bingewatch.to##.border-bottom-primary.section-comment.section-padding.section-row
+bingewatch.to##.read-full.btn-blank.btn-xs.btn
 
 ! May 31, 2024 kaido.to
 kaido.to##[src="/images/kaido-min.png"]
