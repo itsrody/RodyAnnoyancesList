@@ -4,7 +4,7 @@
 ! Expires: 3 days
 ! Homepage: https://github.com/itsrody/RodyAnnoyancesList
 
-! hdtoday.tv
+! May 31, 2024 hdtoday.tv
 hdtoday.tv###user-slot
 hdtoday.tv##.btn-favorite.btn-light.btn-radius.btn
 hdtoday.tv##.dp-i-stats
@@ -19,7 +19,7 @@ hdtoday.tv##.watching_player-control
 hdtoday.tv###film_comments
 hdtoday.tv###hgiks-top
 
-! faselhds.world
+! May 31, 2024 faselhds.world
 faselhds.world##.breakNews
 faselhds.world##.accBtn
 faselhds.world##.ml-auto.promoLink
@@ -42,7 +42,7 @@ www.faselhds.world###streamBox > .streamHeader > .h4
 www.faselhds.world##.singleDesc
 www.faselhds.world##div.col-sm-6.col-md-6.col-lg-6.col-xl-6:nth-of-type(8)
 
-! qw.spotnews.buzz
+! May 31, 2024 qw.spotnews.buzz
 qw.spotnews.buzz##.category-2.hentry.format-standard.status-publish.type-post.post.post-1
 qw.spotnews.buzz###site-footer
 qw.spotnews.buzz##.sticky-bottom-close
@@ -53,7 +53,7 @@ qw.spotnews.buzz##.only-prev.only-one.section-inner.pagination-single
 qw.spotnews.buzz##.comment-respond
 qw.spotnews.buzz##.section-inner.pagination-single
 
-! asia.5ivttv.vip
+! May 31, 2024 asia.5ivttv.vip
 asia.5ivttv.vip##.episodes.section
 asia.5ivttv.vip##.description
 asia.5ivttv.vip##.fwp.dfx.cast-lst
@@ -77,7 +77,7 @@ asia.5ivttv.vip##.vote-cn
 asia.5ivttv.vip###menu-item-106263 > [href="https://asia.5ivttv.vip/favorites/"]
 asia.5ivttv.vip##.blk.aa-mdl.fa-user.lnk.btn-login.btn
 
-! llodynet.site
+! May 31, 2024 llodynet.site
 llodynet.site##.SiteSlider
 llodynet.site##.RightHeader
 llodynet.site##.SocialArea
@@ -105,7 +105,7 @@ llodynet.site##div.RelatedSection.RecentPosts:nth-of-type(7)
 llodynet.site##.Left.Ad160
 llodynet.site##.Tabs > ul > li:nth-of-type(2)
 
-! tuktokcinema.com
+! May 31, 2024 tuktokcinema.com
 www.tuktukcima.com###popup
 www.tuktukcima.com##.News--Bar
 www.tuktukcima.com##.Header--Social
@@ -118,7 +118,7 @@ www.tuktukcima.com##.WatcHTrailer.trl
 www.tuktukcima.com##.HomeSlider
 www.tuktukcima.com##.mobile--bars
 
-! asia2tv.com
+! May 31, 2024 asia2tv.com
 asia2tv.com###site-option
 asia2tv.com###dropdownuserpro
 asia2tv.com##.userlogged_favorites
@@ -158,7 +158,7 @@ asia2tv.com##div.home-movies:nth-of-type(6)
 asia2tv.com##.style3.actros-style2.item-actros
 asia2tv.com##.info-datetime
 
-! topcinema.cam
+! May 31, 2024 topcinema.cam
 web3.topcinema.cam##.News--Bar
 web3.topcinema.cam##.Header--Social
 ||web3.topcinema.cam/wp-content/themes/movies2023/top.png$image
@@ -168,7 +168,7 @@ web3.topcinema.cam##.UnderPoster
 web3.topcinema.cam##.shortlink
 web3.topcinema.cam##.tabs .seriesList
 
-! aflamlab.com
+! May 31, 2024 aflamlab.com
 aflamlab.com##.Footer
 aflamlab.com##.widget_tag_cloud.widget_block.Wdgt
 aflamlab.com###disqus_thread
@@ -179,7 +179,7 @@ aflamlab.com##.widget_series.Wdgt
 aflamlab.com##aside
 aflamlab.com##section:nth-of-type(4)
 
-! shoffree.net
+! May 31, 2024 shoffree.net
 shoffree.net##.bottomDropUpAds-wrapper
 shoffree.net##a.naked:nth-of-type(5)
 shoffree.net##.t-rtl-pull-to-trailing.d-inline-block.p-0.m-0 > .default-fill.t-blackout-stroke-alternative-highlight
@@ -202,7 +202,7 @@ shoffree.net##.col-lg-7.col-md-9.py-2.p-0.m-0
 shoffree.net##.rounded-lg.opacity-hover.pointer.matchmakingOptionalMenu-favGenres-btnBorder.null.p-2
 shoffree.net##.scroller_wrap.rounded-sm.font-sm.rtl-secondaryFont.t-blackout-bg-secondary-highlight.px-1.mb-4.w-100 > a.naked
 
-! ak.sv
+! May 31, 2024 ak.sv
 ak.sv##.mb-3.ads
 ak.sv##.btn-recently
 ak.sv##.user-profile-container.col-auto
@@ -217,7 +217,7 @@ ak.sv##.align-items-center.d-flex.btn-pill.btn-light.btn
 ak.sv##.site-container > nav
 ak.sv##.container > .text-left
 
-! best-drama.com
+! May 31, 2024 best-drama.com
 best-drama.com##.footer-top
 best-drama.com##.footer
 best-drama.com##.not-logged
@@ -228,7 +228,7 @@ best-drama.com##.pb-3.pt-5.block-bgcolor-att
 best-drama.com##.mt-0.block-bgcolor-att.padding_50
 best-drama.com##.mb-0.style-2.gtitle
 
-! aradrmtv.com
+! May 31, 2024 aradrmtv.com
 aradrmtv.com###footer
 aradrmtv.com###uitabs
 aradrmtv.com##.b_title > h2
@@ -244,7 +244,7 @@ aradrmtv.com##.alpha.grid_3
 aradrmtv.com##.menu-item-126151.menu-item-object-custom.menu-item-type-custom.menu-item
 aradrmtv.com##.introfx.themeform
 
-! movizlands.com
+! May 31, 2024 movizlands.com
 movizlands.com##.download
 movizlands.com##footer
 movizlands.com##.SingleContent
@@ -253,7 +253,7 @@ movizlands.com##.filterTabs
 movizlands.com##.BlocksHolder
 movizlands.com##.leftFooter
 
-! honadrama.top
+! May 31, 2024 honadrama.top
 honadrama.top##.UserButton
 honadrama.top###newsNine
 honadrama.top##.forIndex.TitleHome
@@ -266,7 +266,7 @@ honadrama.top##.imdb
 honadrama.top##.w-100SinglePost
 honadrama.top##.CategoriesBrowse
 
-! cimalina.live
+! May 31, 2024 cimalina.live
 cimalina.live##.UserButton
 cimalina.live###sliderBlog
 cimalina.live##.forIndex.TitleHome
@@ -279,7 +279,7 @@ cimalina.live##.menu-item-384472.menu-item-object-page.menu-item-type-post_type.
 cimalina.live##.menu-item-420176.menu-item-privacy-policy.menu-item-object-page.menu-item-type-post_type.menu-item
 cimalina.live##.menu-item-439661.menu-item-object-custom.menu-item-type-custom.menu-item
 
-! ourdrama.pro
+! May 31, 2024 ourdrama.pro
 o.ourdrama.pro##.nav-main-menu
 o.ourdrama.pro##.not-logged.navuser
 o.ourdrama.pro##section.mt-0.padding_50:nth-of-type(8)
@@ -292,7 +292,7 @@ o.ourdrama.pro##.pb-3.pt-5.block-bgcolor-att
 o.ourdrama.pro##.pb-3.pt-4
 o.ourdrama.pro##.text-left.align-self-end.col-md-4
 
-! cimale3k.space
+! May 31, 2024 cimale3k.space
 web.cimale3k.space##.hs-toggles
 web.cimale3k.space##div.block_area_post.block_area:nth-of-type(4)
 web.cimale3k.space##.tren.block_area_post.block_area > .block_area-content > .posts_items
@@ -315,7 +315,7 @@ web.cimale3k.space##.sea_btn
 web.cimale3k.space##.PostContent
 web.cimale3k.space##div.main_top_bt_1:nth-of-type(2)
 
-! arlionztv.pro
+! May 31, 2024 arlionztv.pro
 arlionztv.pro##.fa__play
 arlionztv.pro##.twitter
 arlionztv.pro##.facebook
@@ -344,7 +344,7 @@ arlionztv.pro##div.FullIsW.Pop--Actors:nth-of-type(8)
 arlionztv.pro##.PopVisTitle > em
 arlionztv.pro##servers--selected > p
 
-! shid4u.cam
+! May 31, 2024 shid4u.cam
 shid4u.cam##.social-media
 shid4u.cam##a.btn-hd.btn:nth-of-type(3)
 shid4u.cam##.footer
@@ -356,8 +356,9 @@ shid4u.cam##.col-md-5.col-12
 shid4u.cam##.col-md-7.col-12 > div.mb-2.align-items-start.d-flex
 shid4u.cam##.col-lg-9.col-12 > .description
 shid4u.cam##.text-white.my-4
+shid4u.cam##.text-white.fw-bold.fs-6.bc
 
-! cimanow.cc
+! May 31, 2024 cimanow.cc
 cimanow.cc##.active.owl-item > .item > article > .btns > .shine
 cimanow.cc##.platforms
 cimanow.cc##section:nth-of-type(7)
@@ -369,7 +370,7 @@ cimanow.cc##.btns > .shine
 cimanow.cc##li.tab:nth-of-type(3)
 cimanow.cc##.social.tab
 
-! t4cce4ma.shop
+! May 31, 2024 t4cce4ma.shop
 t4cce4ma.shop##.ProductionsListButton
 t4cce4ma.shop##.LeftSideFlex
 t4cce4ma.shop##.menu-item-273057.menu-item-object-custom.menu-item-type-custom.menu-item
@@ -388,7 +389,7 @@ t4cce4ma.shop##.WecimaonSocialnetwork
 t4cce4ma.shop##singlerelated
 t4cce4ma.shop##[href="https://t4cce4ma.shop/about-us/"]
 
-! asiatv.one
+! May 31, 2024 asiatv.one
 asiatv.one##[href="https://asiatv.one/%d9%82%d8%a7%d8%a6%d9%85%d8%a9-%d8%a7%d9%84%d9%81%d9%86%d8%a7%d9%86%d9%8a%d9%86/"]
 asiatv.one##[href="https://asiatv.one/%d8%af%d8%b1%d8%a7%d9%85%d8%a7-%d8%aa%d8%a8%d8%ab-%d8%ad%d8%a7%d9%84%d9%8a%d8%a7/"]
 asiatv.one##.owl-stage
@@ -403,7 +404,7 @@ asiatv.one##div.sec-main:nth-of-type(4)
 asia2tv.com##.style3.actros-style2.item-actros
 asia2tv.com##.info-datetime
 
-! a.asiawiki.co
+! May 31, 2024 a.asiawiki.co
 a.asiawiki.co##.clearfix.header-inner
 a.asiawiki.co##.row > .con_Ad
 a.asiawiki.co###YSLMasterCountdown > .con_Ad
@@ -417,7 +418,7 @@ a.asiawiki.co##.description
 a.asiawiki.co##.mt10.secContent
 a.asiawiki.co##.mb10.secHead > .con_Ad
 
-! kaido.to
+! May 31, 2024 kaido.to
 kaido.to##[src="/images/kaido-min.png"]
 ||kaido.to/images/home-bg.jpg$image
 kaido.to##.container > .header-setting > .hs-toggles
@@ -448,7 +449,7 @@ kaido.to###xfooter-about
 kaido.to###xsearch > .clearfix
 kaido.to##.xhashtag
 
-! mangareader.to
+! May 31, 2024 mangareader.to
 mangareader.to##.home-sub-header
 mangareader.to##.content-home > .container
 mangareader.to###footer
@@ -467,18 +468,7 @@ mangareader.to###main-sidebar
 mangareader.to##.mr-2.hr-comment
 mangareader.to##.mr-2.hr-info > .hrr-btn.btn-sm.btn
 
-! manhwaclan.com
-manhwaclan.com##.main-menu > .main-navbar.navbar-nav.nav
-manhwaclan.com##.c-sub-nav_wrap > .c-modal_item
-manhwaclan.com##.link-adv-search
-manhwaclan.com##.c-top-second-sidebar.c-sidebar
-manhwaclan.com##.body-top-ads.custom-code.c-ads.ad
-manhwaclan.com##.main-sidebar
-manhwaclan.com##.site-footer
-manhwaclan.com##.active.go-to-top
-manhwaclan.com##.c-togle__menu
-
-! manhwatop.com
+! May 31, 2024 manhwatop.com
 manhwatop.com###menu-item-420 > [href="https://manhwatop.com/blogpost/"]
 manhwatop.com##.link-adv-search
 manhwatop.com##.c-sub-nav_wrap > .c-modal_item
@@ -500,7 +490,7 @@ manhwatop.com##.active.go-to-top
 manhwatop.com##.c-modal_item
 manhwatop.com###nav-menu-item-420
 
-! mangarose.net
+! May 31, 2024 mangarose.net
 mangarose.net##.wp-manga.c-top-sidebar.c-sidebar
 mangarose.net##[href="https://mangarose.net/category/%d8%b9%d8%a7%d9%85/"]
 mangarose.net##.c-breadcrumb
@@ -522,7 +512,7 @@ mangarose.net##.c-bottom-sidebar.c-sidebar
 mangarose.net##.c-top-sidebar.c-sidebar
 mangarose.net##.c-top-second-sidebar.c-sidebar
 
-! azoramoon.com
+! May 31, 2024 azoramoon.com
 azoramoon.com##.top.wpfront-fixed.wpfront-notification-bar
 azoramoon.com###menu-item-46478 > [href="/vip3/"]
 azoramoon.com##.link-adv-search
@@ -542,7 +532,7 @@ azoramoon.com##.c-page__content > .font-heading.style-2.c-blog__heading
 azoramoon.com##div.post-content_item:nth-of-type(7)
 azoramoon.com##.back.btn
 
-! lekmanga.net
+! May 31, 2024 lekmanga.net
 lekmanga.net##li:nth-of-type(1) > .wp-manga-action-button
 lekmanga.net##.breadcrumb
 lekmanga.net###menu-item-63026 > [href="/login/"]
@@ -554,8 +544,10 @@ lekmanga.net##.genres_wrap
 ||lekmanga.net/wp-content/themes/madara/images/bg-search.jpg$image
 lekmanga.net##.font-heading.style-2.c-blog__heading > .h4
 lekmanga.net##.c-search-header__wrapper
+https://lekmanga.net
+lekmanga.net##.c-togle__menu
 
-! normoyun.com
+! May 31, 2024 normoyun.com
 normoyun.com##.navuser
 normoyun.com##.me-auto > .model-thebox
 normoyun.com##.surprise
@@ -576,7 +568,7 @@ normoyun.com##.donation_manga_info
 normoyun.com##.bigcover
 normoyun.com##.ad-banner.kln.mlb.blox
 
-! mangaflame.org
+! May 31, 2024 mangaflame.org
 mangaflame.org##.top.wpfront-fixed.wpfront-notification-bar
 mangaflame.org###menu-item-154460 > [href="#"]
 mangaflame.org##[href="https://mangaflame.org/bookmark/"]
@@ -600,7 +592,7 @@ mangaflame.org##.bixbox.ts-breadcrumb
 mangaflame.org##div.bixbox:nth-of-type(2)
 mangaflame.org##.chaptertags
 
-! manjanoon.org
+! May 31, 2024 manjanoon.org
 manjanoon.org##[href="https://manjanoon.org/%d9%86%d8%b8%d8%a7%d9%85-%d8%a7%d9%84%d8%b9%d8%b6%d9%88%d9%8a%d8%a7%d8%aa/"]
 manjanoon.org##[href="https://manjanoon.org/bookmarks/"]
 manjanoon.org##div.kln:nth-of-type(1)
@@ -622,7 +614,7 @@ manjanoon.org##.bookmark
 manjanoon.org##.bmc
 manjanoon.org##div.kln:nth-of-type(5)
 
-! ar-thunderepic.com
+! May 31, 2024 ar-thunderepic.com
 ar-thunderepic.com##.menu-item-93.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
 ar-thunderepic.com##.menu-item-96.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
 ar-thunderepic.com##[href="https://ar-thunderepic.com/login/"] > span
@@ -640,7 +632,7 @@ ar-thunderepic.com##.wrapper > .hotslid
 ar-thunderepic.com###manga-posts > div.\31 .styletere.bs > .bsx > .bigor > .info > .extra-info > .mobile-rt
 ar-thunderepic.com##.postbody > .hotslid
 
-! areascans.net
+! May 31, 2024 areascans.net
 www.areascans.net##.thirdPartHeader
 www.areascans.net###show-login-popup
 www.areascans.net##.menu-item-99392.menu-item-object-custom.menu-item-type-custom.menu-item.xoo-el-login-tgr
@@ -653,6 +645,20 @@ www.areascans.net###close-teaser
 www.areascans.net##.feed
 www.areascans.net###footer
 www.areascans.net##.Rivo-Novel-center
+
+! May 31, 2024 https://manhwaclan.com
+manhwaclan.com##.comments-area
+manhwaclan.com##.main-col-inner > .font-heading.style-2.c-blog__heading
+manhwaclan.com##.description-summary
+manhwaclan.com##.wp-manga-tags
+manhwaclan.com##.related-style-1.related-reading-wrap
+manhwaclan.com##.col-lg-12.col-md-12.col-sm-12.col-12 > .font-heading.style-2.c-blog__heading
+manhwaclan.com##.c-page__content > div.font-heading.style-2.c-blog__heading
+manhwaclan.com##.post-total-rating
+manhwaclan.com##.breadcrumb
+manhwaclan.com##.sub-nav_content
+manhwaclan.com##.manga-action
+manhwaclan.com##li:nth-of-type(1) > .wp-manga-action-button
 
 ! GitHub: interface cleanups
 github.com##aside .dashboard-changelog.mb-4
