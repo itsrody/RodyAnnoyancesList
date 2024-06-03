@@ -1,6 +1,7 @@
 ! Title: ✨ SuperClean Ultra
 ! Description: Filters for clean many websites.
 ! Author: Rody
+! TimeUpdated: 2024-06-03
 ! Expires: 3 days
 ! Homepage: https://github.com/itsrody/SuperClean
 
@@ -787,6 +788,45 @@ incestflix.win##a.blabel:nth-of-type(5)
 incestflix.win##a.blabel:nth-of-type(3)
 incestflix.win##a.blabel:nth-of-type(4)
 incestflix.win###incflix-footer
+incestflix.win##a.blabel:nth-of-type(2)
+incestflix.win##a.morevids:nth-of-type(12)
+incestflix.win##span.alabel:nth-of-type(2)
+incestflix.win##a.morevids:nth-of-type(13)
+incestflix.win##a.morevids:nth-of-type(14)
+incestflix.win##a.morevids:nth-of-type(15)
+incestflix.win##span.alabel:nth-of-type(1)
+incestflix.win###relations
+incestflix.win##center:nth-of-type(3)
+
+! May 31, 2024 http://incestflix.org
+incestflix.org##a.blabel:nth-of-type(5)
+incestflix.org##a.blabel:nth-of-type(3)
+incestflix.org##a.blabel:nth-of-type(4)
+incestflix.org###incflix-footer
+incestflix.org##a.blabel:nth-of-type(2)
+incestflix.org##a.morevids:nth-of-type(12)
+incestflix.org##span.alabel:nth-of-type(2)
+incestflix.org##a.morevids:nth-of-type(13)
+incestflix.org##a.morevids:nth-of-type(14)
+incestflix.org##a.morevids:nth-of-type(15)
+incestflix.org##span.alabel:nth-of-type(1)
+incestflix.org###relations
+incestflix.org##center:nth-of-type(3)
+
+! May 31, 2024 http://incestflix.com
+incestflix.com##a.blabel:nth-of-type(5)
+incestflix.com##a.blabel:nth-of-type(3)
+incestflix.com##a.blabel:nth-of-type(4)
+incestflix.com###incflix-footer
+incestflix.com##a.blabel:nth-of-type(2)
+incestflix.com##a.morevids:nth-of-type(12)
+incestflix.com##span.alabel:nth-of-type(2)
+incestflix.com##a.morevids:nth-of-type(13)
+incestflix.com##a.morevids:nth-of-type(14)
+incestflix.com##a.morevids:nth-of-type(15)
+incestflix.com##span.alabel:nth-of-type(1)
+incestflix.com###relations
+incestflix.com##center:nth-of-type(3)
 
 ! Jun 1, 2024 https://netfapx.com
 netfapx.com##.menu-item-7354.menu-item-object-custom.menu-item-type-custom.menu-item.theporndude
