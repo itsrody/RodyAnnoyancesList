@@ -1,0 +1,106 @@
+! Title: ✨ BraveList
+! Description: Filters for clean many free English, Arabic streaming and maga,manhwa websites.
+! Author: Murtaza Salih
+! Expires: 3 days
+! Homepage: https://github.com/itsrody/SuperCleanLite
+! Jun 18, 2024 https://best-drama.com
+best-drama.com##div.col-md-6 > .logo > [href="https://best-drama.com"]
+best-drama.com##.userpropage-user
+best-drama.com##.mt-0.block-bgcolor-att.padding_50
+best-drama.com##section.mt-0.padding_50:nth-of-type(2)
+best-drama.com##.footer
+best-drama.com##.dt_rating_data
+best-drama.com##.text-center.float-none.info-comviewfav
+best-drama.com##.pb-3.pt-5.block-bgcolor-att
+best-drama.com##.footer-top
+best-drama.com##.mb-0.style-2.gtitle
+
+! Jun 18, 2024 https://wecima.show
+wecima.show##.ProductionsListButton
+wecima.show##.Button--Menubar--UX
+wecima.show##.LeftSideFlex--user
+wecima.show##logotext
+wecima.show##.tabs
+wecima.show##.owl-stage-outer
+wecima.show##footer
+wecima.show##.Breadcrumb--UX
+wecima.show##.WecimaonSocialnetwork
+wecima.show##singlecontainerleft
+wecima.show##singlerelated
+
+! Jun 18, 2024 https://www.tuktukcima.com
+www.tuktukcima.com##.News--Bar > .Content--Wrapper
+www.tuktukcima.com##.Header--Social
+www.tuktukcima.com##.Channels--Tv
+www.tuktukcima.com##.Footer--Filter
+www.tuktukcima.com##footer
+www.tuktukcima.com##.imdbRating
+www.tuktukcima.com##.imdbS
+www.tuktukcima.com##.breadcrumbs
+www.tuktukcima.com##.WatcHTrailer.trl
+www.tuktukcima.com##.HomeSlider
+
+! Jun 18, 2024 https://asia.5ivttv.vip
+asia.5ivttv.vip##.blk.aa-mdl.fa-user.lnk.btn-login.btn
+asia.5ivttv.vip##.or-1.dv.dfxc.menu > .menu-item-129997.menu-item-object-page.menu-item-type-post_type.menu-item
+asia.5ivttv.vip###menu-item-106263 > [href="https://asia.5ivttv.vip/favorites/"]
+asia.5ivttv.vip###menu-item-28656 > [href="/release/2024/"]
+asia.5ivttv.vip###widget_list_movies_series-4
+asia.5ivttv.vip###widget_list_movies_series-5
+asia.5ivttv.vip##.movies.widget_list_movies_series.section.widget.wdgt-home
+asia.5ivttv.vip##.tac.ft
+asia.5ivttv.vip##.entry-meta
+asia.5ivttv.vip##.ccc-favorite-post-toggle
+asia.5ivttv.vip###fav-tv
+asia.5ivttv.vip##.description > p:nth-of-type(1)
+asia.5ivttv.vip##.alg-cr.jst-sb.dfxa
+asia.5ivttv.vip##section.episodes.section:nth-of-type(2)
+
+! Jun 18, 2024 https://qw.spotnews.buzz
+qw.spotnews.buzz##.header-footer-group.has-text-align-center.entry-header
+qw.spotnews.buzz##.entry-content
+qw.spotnews.buzz##.section-inner.pagination-single
+qw.spotnews.buzz##.comment-respond
+qw.spotnews.buzz###site-footer
+
+! Jun 18, 2024 https://aflamlab.com
+aflamlab.com##.MovieListTop
+aflamlab.com##aside
+aflamlab.com##section:nth-of-type(3)
+aflamlab.com##.Footer
+aflamlab.com##.lgtbx-lnk.fal.fa-lightbulb
+aflamlab.com##.ClFx
+
+! Jun 18, 2024 https://lekmanga.net
+lekmanga.net##.link-adv-search > [href^="https://lekmanga.net/"]
+lekmanga.net###menu-item-74878 > [href]
+lekmanga.net##.hide-sticky-menu.with-border.c-sub-header-nav
+lekmanga.net##.c-breadcrumb-wrapper
+lekmanga.net###menu-item-65 > [href="/"]
+lekmanga.net##.post-total-rating
+lekmanga.net##.site-footer
+lekmanga.net##.count-comment > .action_icon > [href]
+
+! Jun 18, 2024 https://faselhds.world
+www.faselhds.world##div#blockList:nth-of-type(2)
+www.faselhds.world##div#blockList:nth-of-type(4)
+www.faselhds.world##.row.align-items-center.justify-content-center > .col-xl-4.col-lg-4.col-md-12.col-sm-12
+www.faselhds.world###myImg
+www.faselhds.world##.account-img
+www.faselhds.world###footer
+www.faselhds.world##.promoLink
+www.faselhds.world##a.accItem:nth-of-type(4)
+www.faselhds.world###lastnews
+www.faselhds.world###pr
+www.faselhds.world##.bviews
+www.faselhds.world##.bCat
+www.faselhds.world##.sCat
+www.faselhds.world##.swiper-wrapper > div.swiper-slide > .slideInner > .slideContent > .row.align-items-center > .col-xl-8.col-lg-8.col-md-8.col-sm-12 > .slideMeta.mb-1 > span
+www.faselhds.world##.swiper-slide.swiper-slide-active > .slideInner > .slideContent > .row.align-items-center > .col-xl-8.col-lg-8.col-md-8.col-sm-12 > .slideCats.mb-2
+www.faselhds.world##.bimdb
+www.faselhds.world##.social-block
+www.faselhds.world##.promoTab
+www.faselhds.world##.alert-danger
+www.faselhds.world##.serDetails
+www.faselhds.world##.thumbs-rating-container
+www.faselhds.world##.starRating
