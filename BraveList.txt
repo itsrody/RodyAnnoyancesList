@@ -104,3 +104,4 @@ www.faselhds.world##.alert-danger
 www.faselhds.world##.serDetails
 www.faselhds.world##.thumbs-rating-container
 www.faselhds.world##.starRating
+www.faselhds.world##.dwnApp
