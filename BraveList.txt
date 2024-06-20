@@ -3,105 +3,121 @@
 ! Author: Murtaza Salih
 ! Expires: 3 days
 ! Homepage: https://github.com/itsrody/SuperCleanLite
-! Jun 18, 2024 https://best-drama.com
-best-drama.com##div.col-md-6 > .logo > [href="https://best-drama.com"]
-best-drama.com##.userpropage-user
-best-drama.com##.mt-0.block-bgcolor-att.padding_50
-best-drama.com##section.mt-0.padding_50:nth-of-type(2)
-best-drama.com##.footer
-best-drama.com##.dt_rating_data
-best-drama.com##.text-center.float-none.info-comviewfav
-best-drama.com##.pb-3.pt-5.block-bgcolor-att
-best-drama.com##.footer-top
-best-drama.com##.mb-0.style-2.gtitle
 
-! Jun 18, 2024 https://wecima.show
-wecima.show##.ProductionsListButton
-wecima.show##.Button--Menubar--UX
-wecima.show##.LeftSideFlex--user
-wecima.show##logotext
-wecima.show##.tabs
-wecima.show##.owl-stage-outer
-wecima.show##footer
-wecima.show##.Breadcrumb--UX
-wecima.show##.WecimaonSocialnetwork
-wecima.show##singlecontainerleft
-wecima.show##singlerelated
+! Jun 19, 2024 https://www.faselhds.world
+www.faselhds.world##.Teamwork.AsideContext
+www.faselhds.world##.dwnApp
+www.faselhds.world##.ml-auto.promoLink
+www.faselhds.world##.promoTab
+www.faselhds.world##.starRating
+www.faselhds.world##.thumbs-rating-container
+www.faselhds.world##.alert-danger.alert
+www.faselhds.world##.postElse
+www.faselhds.world##.downloadLinks
 
-! Jun 18, 2024 https://www.tuktukcima.com
-www.tuktukcima.com##.News--Bar > .Content--Wrapper
+www.faselhds.world###footer
+www.faselhds.world##span.cat
+www.faselhds.world##.pViews
+www.faselhds.world##.pImdb
+www.faselhds.world##.breakNews
+www.faselhds.world###pr
+www.faselhds.world##.bCat
+www.faselhds.world##.bviews
+www.faselhds.world##.bimdb
+www.faselhds.world##.accImg
+www.faselhds.world##.col-sm-12.col-md-12.col-lg-4.col-xl-4
+www.faselhds.world##a.accItem:nth-of-type(4)
+www.faselhds.world##div#blockList.mt-3.blockAlt.watchlist-box:nth-of-type(2)
+www.faselhds.world##div#blockList.mt-3.blockAlt.watchlist-box:nth-of-type(4)
+www.faselhds.world##.quality
+www.faselhds.world###a9WMTfh5F4Crw
+www.faselhds.world###aMC89eI322dI6
+www.faselhds.world###a3YP7u9FmxEXY
+www.faselhds.world###an1qXxD84JnjP
+
+www.faselhds.world##.mb-1.slideMeta
+www.faselhds.world##.mb-2.slideCats
+
+! Jun 19, 2024 https://hdtoday.tv
+hdtoday.tv##.mb-5.mw-body
+hdtoday.tv###xfooter-about
+hdtoday.tv##.footer-links
+hdtoday.tv##div.text-center.mw-buttons:nth-of-type(7)
+hdtoday.tv##li.nav-item:nth-of-type(4)
+hdtoday.tv##.mw-sitename
+hdtoday.tv##.section-id-01.block_area_home.block_area
+hdtoday.tv##section.section-id-02.block_area_home.block_area:nth-of-type(4)
+hdtoday.tv###footer
+hdtoday.tv##li.nav-item:nth-of-type(7)
+hdtoday.tv##li.nav-item:nth-of-type(6)
+hdtoday.tv##.btn-trailer.btn-sm.btn
+hdtoday.tv##.mb-3.detail-tags
+hdtoday.tv##.text-center.server-notice
+hdtoday.tv##.mb-3.alert
+hdtoday.tv##.dp-i-c-poster
+hdtoday.tv###film_comments
+
+! Jun 19, 2024 https://www.faselhds.world
+www.faselhds.world##.posTop
+
+! Jun 19, 2024 https://www.tuktukcima.com
+www.tuktukcima.com##.Left--Anchors
+www.tuktukcima.com##.News--Content
 www.tuktukcima.com##.Header--Social
-www.tuktukcima.com##.Channels--Tv
+www.tuktukcima.com##.Slides--Item
+www.tuktukcima.com##.liList
+www.tuktukcima.com##.Channels--List
 www.tuktukcima.com##.Footer--Filter
 www.tuktukcima.com##footer
-www.tuktukcima.com##.imdbRating
-www.tuktukcima.com##.imdbS
-www.tuktukcima.com##.breadcrumbs
+||ww.tuktukcima.com/wp-content/uploads/2022/06/lela-1.png$image
+www.tuktukcima.com###mpbreadcrumbs
 www.tuktukcima.com##.WatcHTrailer.trl
-www.tuktukcima.com##.HomeSlider
+www.tuktukcima.com##.tabs > ul > li:nth-of-type(3)
+www.tuktukcima.com##.imdbS
 
-! Jun 18, 2024 https://asia.5ivttv.vip
+! Jun 19, 2024 https://asia.5ivttv.vip
 asia.5ivttv.vip##.blk.aa-mdl.fa-user.lnk.btn-login.btn
 asia.5ivttv.vip##.or-1.dv.dfxc.menu > .menu-item-129997.menu-item-object-page.menu-item-type-post_type.menu-item
 asia.5ivttv.vip###menu-item-106263 > [href="https://asia.5ivttv.vip/favorites/"]
 asia.5ivttv.vip###menu-item-28656 > [href="/release/2024/"]
-asia.5ivttv.vip###widget_list_movies_series-4
-asia.5ivttv.vip###widget_list_movies_series-5
-asia.5ivttv.vip##.movies.widget_list_movies_series.section.widget.wdgt-home
-asia.5ivttv.vip##.tac.ft
-asia.5ivttv.vip##.entry-meta
-asia.5ivttv.vip##.ccc-favorite-post-toggle
-asia.5ivttv.vip###fav-tv
-asia.5ivttv.vip##.description > p:nth-of-type(1)
-asia.5ivttv.vip##.alg-cr.jst-sb.dfxa
-asia.5ivttv.vip##section.episodes.section:nth-of-type(2)
+asia.5ivttv.vip###menu-item-44587 > [href="/release/2023/"]
+asia.5ivttv.vip###post-132390 > .movies.fcl.dfx.post > .lnk-blk
 
-! Jun 18, 2024 https://qw.spotnews.buzz
+! Jun 20, 2024 http://wecima.show
+wecima.show##.LeftSideFlex
+
+! Jun 20, 2024 https://wecima.show
+wecima.show##.Menubar--UX
+wecima.show##.Slider--Grid
+wecima.show##.WecimaonSocialnetwork
+wecima.show##singlecontainerleft
+wecima.show##singlerelated
+wecima.show##.BreadcrumbsFilters
+
+! Jun 20, 2024 https://best-drama.com
+best-drama.com##.mt-0.block-bgcolor-att.padding_50
+best-drama.com##.footer-top
+best-drama.com##.footer
+
+best-drama.com##.starstruck-wrap
+
+! Jun 20, 2024 https://asia.5ivttv.vip
+asia.5ivttv.vip##.vote-cn
+asia.5ivttv.vip##.rcl0c.rfg1.rw.options
+asia.5ivttv.vip##.tac.ft
+asia.5ivttv.vip##.widget.comments-area
+asia.5ivttv.vip##.episodes.section
+
+! Jun 20, 2024 https://qw.spotnews.buzz
 qw.spotnews.buzz##.header-footer-group.has-text-align-center.entry-header
 qw.spotnews.buzz##.entry-content
-qw.spotnews.buzz##.section-inner.pagination-single
-qw.spotnews.buzz##.comment-respond
-qw.spotnews.buzz###site-footer
+qw.spotnews.buzz##.category-2.hentry.format-standard.status-publish.type-post.post.post-74
 
-! Jun 18, 2024 https://aflamlab.com
-aflamlab.com##.MovieListTop
+! Jun 20, 2024 http://aflamlab.com
 aflamlab.com##aside
-aflamlab.com##section:nth-of-type(3)
 aflamlab.com##.Footer
-aflamlab.com##.lgtbx-lnk.fal.fa-lightbulb
+aflamlab.com##section:nth-of-type(3)
+
+! Jun 20, 2024 https://aflamlab.com
 aflamlab.com##.ClFx
 
-! Jun 18, 2024 https://lekmanga.net
-lekmanga.net##.link-adv-search > [href^="https://lekmanga.net/"]
-lekmanga.net###menu-item-74878 > [href]
-lekmanga.net##.hide-sticky-menu.with-border.c-sub-header-nav
-lekmanga.net##.c-breadcrumb-wrapper
-lekmanga.net###menu-item-65 > [href="/"]
-lekmanga.net##.post-total-rating
-lekmanga.net##.site-footer
-lekmanga.net##.count-comment > .action_icon > [href]
-
-! Jun 18, 2024 https://faselhds.world
-www.faselhds.world##div#blockList:nth-of-type(2)
-www.faselhds.world##div#blockList:nth-of-type(4)
-www.faselhds.world##.row.align-items-center.justify-content-center > .col-xl-4.col-lg-4.col-md-12.col-sm-12
-www.faselhds.world###myImg
-www.faselhds.world##.account-img
-www.faselhds.world###footer
-www.faselhds.world##.promoLink
-www.faselhds.world##a.accItem:nth-of-type(4)
-www.faselhds.world###lastnews
-www.faselhds.world###pr
-www.faselhds.world##.bviews
-www.faselhds.world##.bCat
-www.faselhds.world##.sCat
-www.faselhds.world##.swiper-wrapper > div.swiper-slide > .slideInner > .slideContent > .row.align-items-center > .col-xl-8.col-lg-8.col-md-8.col-sm-12 > .slideMeta.mb-1 > span
-www.faselhds.world##.swiper-slide.swiper-slide-active > .slideInner > .slideContent > .row.align-items-center > .col-xl-8.col-lg-8.col-md-8.col-sm-12 > .slideCats.mb-2
-www.faselhds.world##.bimdb
-www.faselhds.world##.social-block
-www.faselhds.world##.promoTab
-www.faselhds.world##.alert-danger
-www.faselhds.world##.serDetails
-www.faselhds.world##.thumbs-rating-container
-www.faselhds.world##.starRating
-www.faselhds.world##.dwnApp
