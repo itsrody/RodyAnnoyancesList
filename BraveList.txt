@@ -14,7 +14,6 @@ www.faselhds.world##.thumbs-rating-container
 www.faselhds.world##.alert-danger.alert
 www.faselhds.world##.postElse
 www.faselhds.world##.downloadLinks
-
 www.faselhds.world###footer
 www.faselhds.world##span.cat
 www.faselhds.world##.pViews
@@ -34,9 +33,10 @@ www.faselhds.world###a9WMTfh5F4Crw
 www.faselhds.world###aMC89eI322dI6
 www.faselhds.world###a3YP7u9FmxEXY
 www.faselhds.world###an1qXxD84JnjP
-
 www.faselhds.world##.mb-1.slideMeta
 www.faselhds.world##.mb-2.slideCats
+www.faselhds.world##.social-block 
+www.faselhds.world##.posTop 
 
 ! Jun 19, 2024 https://hdtoday.tv
 hdtoday.tv##.mb-5.mw-body
@@ -57,8 +57,6 @@ hdtoday.tv##.mb-3.alert
 hdtoday.tv##.dp-i-c-poster
 hdtoday.tv###film_comments
 
-! Jun 19, 2024 https://www.faselhds.world
-www.faselhds.world##.posTop
 
 ! Jun 19, 2024 https://www.tuktukcima.com
 www.tuktukcima.com##.Left--Anchors
@@ -98,7 +96,6 @@ wecima.show##.BreadcrumbsFilters
 best-drama.com##.mt-0.block-bgcolor-att.padding_50
 best-drama.com##.footer-top
 best-drama.com##.footer
-
 best-drama.com##.starstruck-wrap
 
 ! Jun 20, 2024 https://asia.5ivttv.vip
