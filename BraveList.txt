@@ -57,7 +57,6 @@ hdtoday.tv##.mb-3.alert
 hdtoday.tv##.dp-i-c-poster
 hdtoday.tv###film_comments
 
-
 ! Jun 19, 2024 https://www.tuktukcima.com
 www.tuktukcima.com##.Left--Anchors
 www.tuktukcima.com##.News--Content
@@ -81,9 +80,6 @@ asia.5ivttv.vip###menu-item-28656 > [href="/release/2024/"]
 asia.5ivttv.vip###menu-item-44587 > [href="/release/2023/"]
 asia.5ivttv.vip###post-132390 > .movies.fcl.dfx.post > .lnk-blk
 
-! Jun 20, 2024 http://wecima.show
-wecima.show##.LeftSideFlex
-
 ! Jun 20, 2024 https://wecima.show
 wecima.show##.Menubar--UX
 wecima.show##.Slider--Grid
@@ -91,6 +87,7 @@ wecima.show##.WecimaonSocialnetwork
 wecima.show##singlecontainerleft
 wecima.show##singlerelated
 wecima.show##.BreadcrumbsFilters
+wecima.show##.LeftSideFlex
 
 ! Jun 20, 2024 https://best-drama.com
 best-drama.com##.mt-0.block-bgcolor-att.padding_50
@@ -114,7 +111,30 @@ qw.spotnews.buzz##.category-2.hentry.format-standard.status-publish.type-post.po
 aflamlab.com##aside
 aflamlab.com##.Footer
 aflamlab.com##section:nth-of-type(3)
-
-! Jun 20, 2024 https://aflamlab.com
 aflamlab.com##.ClFx
 
+! Jun 25, 2024 https://shoffree.net
+shoffree.net##.p-0.px-3.t-blackout-bg-secondary.d-none.d-md-block.col-md-3
+shoffree.net##.imdbRate
+shoffree.net##.imdbRating
+shoffree.net##.font-bold.font-lg.singleRating
+shoffree.net##.m-0.p-0.px-4.pt-4.pb-3.listOfPosts-wrapper.t-blackout-bt-primary.row
+shoffree.net##div.px-0.pt-0:nth-of-type(7) > .px-2 > .w-100.h-auto.m-0.p-2.t-blackout-bg-secondary-highlight.rtl-secondaryFont.font-sm.rounded-sm
+shoffree.net##div.px-0.pt-0:nth-of-type(7) > .m-0.p-0.w-100.px-4.pb-4.rtl-primaryFont.t-blackout-text-alternative-highlight.font-lg.row
+shoffree.net##div.px-0.pt-0:nth-of-type(6) > .px-2 > .w-100.pb-3.align-center
+shoffree.net##.p-0.px-2.h-100.t-blackout-bg-secondary-highlight.position-relative.t-blackout-br-primary.col-12.col-md-8.col-lg-7.col-xl-8 > .px-0.pt-0 > .px-2 > .w-100.pb-3.align-center
+shoffree.net###disqus_thread
+shoffree.net##.m-0.p-0.w-100.px-2.pb-4.rtl-primaryFont.t-blackout-text-alternative-highlight.font-lg.row
+shoffree.net##.px-2.d-block.t-blackout-bg-secondary-highlight.p-0.h-100.position-relative.col-12.col-md-4.col-lg-5.col-xl-4 > .w-100.h-auto.m-0.t-blackout-bg-secondary-highlight.rtl-secondaryFont.font-sm.rounded-sm
+shoffree.net##.pb-3.px-0.rtl-primaryFont.py-4.rtl-pull-to-leading.t-blackout-text-alternative-highlight.font-md
+shoffree.net##.SocialMediaIcon
+shoffree.net###ads_list > .p-4.w-100.t-blackout-bg-body.rounded-md-top.rtl-pull-to-leading
+shoffree.net##.w-100.d-md-block.p-2.headsUpView-wrapper.t-blackout-bg-secondary-highlight.null.text-center > div.d-flex:nth-of-type(1) > [href*="https://shoffree.net/ramadan"] > .my-2.rtl-pull-to-leading > .p-0.px-1.h-100.w-100.nowrap.borderless.t-blackout-focus-accent.t-blackout-text-primary-highlight.font-sm.opacity-hover.rounded-sm
+
+! Jun 25, 2024 https://egydead.space
+egydead.space##footer
+egydead.space##.pin-posts-list
+egydead.space##.share-post
+egydead.space##[src*="https://egydead.space/wp-content/uploads/2023/12/Download.png"]
+egydead.space##.singleStory
+egydead.space##.trailerBtn
