@@ -1,7 +1,9 @@
+[Adblock Plus]
+! Version: 202406250230
 ! Title: ✨ BraveList
 ! Description: Filters for clean many free English, Arabic streaming and maga,manhwa websites.
-! Author: Murtaza Salih
-! Expires: 3 days
+! Maintainer: Murtaza Salih
+! Expires: 2 hours
 ! Homepage: https://github.com/itsrody/SuperCleanLite
 
 ! Jun 19, 2024 https://www.faselhds.world
