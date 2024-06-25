@@ -138,3 +138,4 @@ egydead.space##.share-post
 egydead.space##[src*="https://egydead.space/wp-content/uploads/2023/12/Download.png"]
 egydead.space##.singleStory
 egydead.space##.trailerBtn
+egydead.space##.m-slider
