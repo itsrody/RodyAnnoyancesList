@@ -1,12 +1,12 @@
 [Adblock Plus]
-! Version: 202406250230
+! Version: 202406280150
 ! Title: ✨ BraveList
 ! Description: Filters for clean many free English, Arabic streaming and maga,manhwa websites.
 ! Maintainer: Murtaza Salih
 ! Expires: 2 hours
 ! Homepage: https://github.com/itsrody/SuperCleanLite
 
-! Jun 19, 2024 https://www.faselhds.world
+! Jun 28, 2024 https://www.faselhds.world
 www.faselhds.world##.Teamwork.AsideContext
 www.faselhds.world##.dwnApp
 www.faselhds.world##.ml-auto.promoLink
@@ -38,9 +38,13 @@ www.faselhds.world###an1qXxD84JnjP
 www.faselhds.world##.mb-1.slideMeta
 www.faselhds.world##.mb-2.slideCats
 www.faselhds.world##.social-block 
-www.faselhds.world##.posTop 
+www.faselhds.world##.posTop
+www.faselhds.world##.singleStar
+www.faselhds.world##.promoLink
+www.faselhds.world##.social
+www.faselhds.world##div.ralatedMovies
 
-! Jun 19, 2024 https://hdtoday.tv
+! Jun 28, 2024 https://hdtoday.tv
 hdtoday.tv##.mb-5.mw-body
 hdtoday.tv###xfooter-about
 hdtoday.tv##.footer-links
@@ -58,6 +62,10 @@ hdtoday.tv##.text-center.server-notice
 hdtoday.tv##.mb-3.alert
 hdtoday.tv##.dp-i-c-poster
 hdtoday.tv###film_comments
+hdtoday.tv##.file_realted-list.film_related
+hdtoday.tv##.breadcrumb
+hdtoday.tv##.mr-2.btn-secondary.btn-radius.btn-sm.btn.goto-comments
+hdtoday.tv###turn-off-light
 
 ! Jun 19, 2024 https://www.tuktukcima.com
 www.tuktukcima.com##.Left--Anchors
@@ -141,3 +149,7 @@ egydead.space##[src*="https://egydead.space/wp-content/uploads/2023/12/Download.
 egydead.space##.singleStory
 egydead.space##.trailerBtn
 egydead.space##.m-slider
+
+! Jun 27, 2024 https://kaido.to
+kaido.to###footer
+kaido.to##.container > .header-setting > .hs-toggles > a.hst-item
